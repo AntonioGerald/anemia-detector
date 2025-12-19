@@ -1,0 +1,1055 @@
+image_path,No,Nama,HB,Tingkat_Anemia
+data/images/001_Afifah_Luthfiyyah_Rahman.jpg,1,Afifah Luthfiyyah Rahman,11.3,Anemia Ringan
+data/images/002_Afiqah_Anindya_Zara.jpg,2,Afiqah Anindya Zara,10.3,Anemia Sedang
+data/images/003_Alissa_Fitiya_Melvi.jpg,3,Alissa Fitiya Melvi,10.9,Anemia Sedang
+data/images/004_Aulia_Izzatunnisha.jpg,4,Aulia Izzatunnisha,10.7,Anemia Sedang
+data/images/005_Azra_Aqilah_Pulungan.jpg,5,Azra Aqilah Pulungan,10.6,Anemia Sedang
+data/images/006_Cantika_Azzahrah.jpg,6,Cantika Azzahrah,9.7,Anemia Sedang
+data/images/007_Disa_Aqila_Maylafaizza.jpg,7,Disa Aqila Maylafaizza,12.6,Tidak Anemia
+data/images/008_Florentine_Finishia_Kezia_Margono.jpg,8,Florentine Finishia Kezia Margono,13.9,Tidak Anemia
+data/images/009_Keisha_Zhafirah_Aqeela.jpg,9,Keisha Zhafirah Aqeela,12.4,Tidak Anemia
+data/images/010_Khayla_Aureliya_Tirani.jpg,10,Khayla Aureliya Tirani,10.4,Anemia Sedang
+data/images/011_Kiara_Wayu_Rafifah_Lubis.jpg,11,Kiara Wayu Rafifah Lubis,12.4,Tidak Anemia
+data/images/012_Millie_Calya_F.jpg,12,Millie Calya F,9.9,Anemia Sedang
+data/images/013_Najwa_Aureylia.jpg,13,Najwa Aureylia,10.9,Anemia Sedang
+data/images/014_Nayla_Gracia_Zitri.jpg,14,Nayla Gracia Zitri,14.5,Tidak Anemia
+data/images/015_Nazharatu_Atiqah.jpg,15,Nazharatu Atiqah,12.4,Tidak Anemia
+data/images/016_Salsabila_Arya_Rizki.jpg,16,Salsabila Arya Rizki,11.1,Anemia Ringan
+data/images/017_Sulistianingsih_Rahayu.jpg,17,Sulistianingsih Rahayu,11.6,Anemia Ringan
+data/images/018_Syifana_Farah_Nazhifah.jpg,18,Syifana Farah Nazhifah,11.8,Anemia Ringan
+data/images/019_Syifaul_Khaira.jpg,19,Syifaul Khaira,12.5,Tidak Anemia
+data/images/020_Vaustine_Sydney_Charlotte_V.jpg,20,Vaustine Sydney Charlotte V,12.0,Tidak Anemia
+data/images/021_Adeeva_Farzana_Murti.jpg,21,Adeeva Farzana Murti,10.5,Anemia Sedang
+data/images/022_Anabel_Amora_Naldo.jpg,22,Anabel Amora Naldo,12.2,Tidak Anemia
+data/images/023_Annisa_Salsabila_Putri.jpg,23,Annisa Salsabila Putri,9.1,Anemia Sedang
+data/images/024_Areta_Rafa_Zahara.jpg,24,Areta Rafa Zahara,10.2,Anemia Sedang
+data/images/025_Aurora_Nirmala.jpg,25,Aurora Nirmala,9.9,Anemia Sedang
+data/images/026_Bilqis_Andrian_Zizah.jpg,26,Bilqis Andrian Zizah,12.2,Tidak Anemia
+data/images/027_Calista_Caesaria.jpg,27,Calista Caesaria,10.1,Anemia Sedang
+data/images/028_Cherry_Aurora_Dyfa_Arianto.jpg,28,Cherry Aurora Dyfa Arianto,8.6,Anemia Sedang
+data/images/029_Chika_Rambu_Bassae_Putri_Ermanto.jpg,29,Chika Rambu Bassae Putri Ermanto,12.1,Tidak Anemia
+data/images/030_Faiza_Natika.jpg,30,Faiza Natika,14.4,Tidak Anemia
+data/images/031_Fanya_Letycia.jpg,31,Fanya Letycia,10.0,Anemia Sedang
+data/images/032_Fiddellica_Qiranna_Azzahra.jpg,32,Fiddellica Qiranna Azzahra,12.3,Tidak Anemia
+data/images/033_Ghian_Syafa_Kirani.jpg,33,Ghian Syafa Kirani,12.0,Tidak Anemia
+data/images/034_Laiqa_Mavisha.jpg,34,Laiqa Mavisha,12.0,Tidak Anemia
+data/images/035_Putu_Ayunda_Kuri_Santati.jpg,35,Putu Ayunda Kuri Santati,10.7,Anemia Sedang
+data/images/036_Qeyzhia_Anggi_Dwi_Sayhputri.jpg,36,Qeyzhia Anggi Dwi Sayhputri,11.4,Anemia Ringan
+data/images/037_Yusya_Nur_Zahra.jpg,37,Yusya Nur Zahra,12.0,Tidak Anemia
+data/images/038_Zahwa_Zafira.jpg,38,Zahwa Zafira,9.6,Anemia Sedang
+data/images/039_Bilqis_Radini_Wulandari.jpg,39,Bilqis Radini Wulandari,12.3,Tidak Anemia
+data/images/040_Clarisa_Angel_Wijaya.jpg,40,Clarisa Angel Wijaya,12.5,Tidak Anemia
+data/images/041_Dzakirah_Kayyisah_Tasrif_Lubis.jpg,41,Dzakirah Kayyisah Tasrif Lubis,11.6,Anemia Ringan
+data/images/042_Fiddellica_Qarinna_Azzahwa.jpg,42,Fiddellica Qarinna Azzahwa,12.4,Tidak Anemia
+data/images/043_Fiola_Zhania_Sari.jpg,43,Fiola Zhania Sari,12.8,Tidak Anemia
+data/images/044_Ika_Septia_Rini.jpg,44,Ika Septia Rini,11.3,Anemia Ringan
+data/images/045_Indah_Syaifira_Dardayail_Anwar.jpg,45,Indah Syaifira Dardayail Anwar,11.3,Anemia Ringan
+data/images/046_Kazitha_Azkia_Husna.jpg,46,Kazitha Azkia Husna,11.0,Anemia Ringan
+data/images/047_Nadine_Kayyisha_Hariyanto.jpg,47,Nadine Kayyisha Hariyanto,10.8,Anemia Sedang
+data/images/048_Najwa_Aqila_Khalisha.jpg,48,Najwa Aqila Khalisha,13.3,Tidak Anemia
+data/images/049_Nickeysha_Calluella_Chavali.jpg,49,Nickeysha Calluella Chavali,12.3,Tidak Anemia
+data/images/050_Nur_Asyifah_Anggraini.jpg,50,Nur Asyifah Anggraini,12.0,Tidak Anemia
+data/images/051_Princess_Aglo_Hutabarat.jpg,51,Princess Aglo Hutabarat,12.4,Tidak Anemia
+data/images/052_Raisyafitri_Arinda_Watoni.jpg,52,Raisyafitri Arinda Watoni,12.0,Tidak Anemia
+data/images/053_Rara_Putri_Islami.jpg,53,Rara Putri Islami,13.3,Tidak Anemia
+data/images/054_Repa_Oktarina_Ependi.jpg,54,Repa Oktarina Ependi,10.1,Anemia Sedang
+data/images/055_Sabrina_Aleyah_Gusva.jpg,55,Sabrina Aleyah Gusva,11.0,Anemia Ringan
+data/images/056_Shatira_Olivia_Rahmi_Pane.jpg,56,Shatira Olivia Rahmi Pane,10.2,Anemia Sedang
+data/images/057_Syahira_Dwi_Maharani.jpg,57,Syahira Dwi Maharani,12.5,Tidak Anemia
+data/images/058_Wahyuni_Riva_Reflesia.jpg,58,Wahyuni Riva Reflesia,10.7,Anemia Sedang
+data/images/059_Aerilyn_Bellvania_Fayyola.jpg,59,Aerilyn Bellvania Fayyola,10.6,Anemia Sedang
+data/images/060_Anggun_Altuwiva_Ramadhani.jpg,60,Anggun Altuwiva Ramadhani,11.0,Anemia Ringan
+data/images/061_Anindya_Putri_Kurnia_R.jpg,61,Anindya Putri Kurnia R,10.2,Anemia Sedang
+data/images/062_Avril_Putri_Kirana.jpg,62,Avril Putri Kirana,11.8,Anemia Ringan
+data/images/063_Davina_Faiza_Siti_Ajir.jpg,63,Davina Faiza Siti Ajir,9.2,Anemia Sedang
+data/images/065_Dyna_Alfaiza.jpg,65,Dyna Alfaiza,10.9,Anemia Sedang
+data/images/066_Gichel_Aprilia.jpg,66,Gichel Aprilia,11.8,Anemia Ringan
+data/images/067_Jeany_Al-Queen_Zee_Gustian.jpg,67,Jeany Al-Queen Zee Gustian,10.6,Anemia Sedang
+data/images/068_Jelsy_Lavenia.jpg,68,Jelsy Lavenia,11.6,Anemia Ringan
+data/images/069_Naila_Maratus_Sholeha.jpg,69,Naila Maratus Sholeha,12.8,Tidak Anemia
+data/images/070_Nayla_Twin_Maros.jpg,70,Nayla Twin Maros,12.6,Tidak Anemia
+data/images/071_Payha_Ataila_Basni.jpg,71,Payha Ataila Basni,10.8,Anemia Sedang
+data/images/072_Quratul_Nabila_Atiqa.jpg,72,Quratul Nabila Atiqa,11.6,Anemia Ringan
+data/images/073_Rivathiana_Zaluddin.jpg,73,Rivathiana Zaluddin,8.8,Anemia Sedang
+data/images/074_Sagita_Anggraini.jpg,74,Sagita Anggraini,11.1,Anemia Ringan
+data/images/075_Salsabila_Putri_Aulia.jpg,75,Salsabila Putri Aulia,13.0,Tidak Anemia
+data/images/076_Syafika_Najwa.jpg,76,Syafika Najwa,10.6,Anemia Sedang
+data/images/077_Tiara_Athifa.jpg,77,Tiara Athifa,10.4,Anemia Sedang
+data/images/078_Regina.jpg,78,Regina,11.4,Anemia Ringan
+data/images/079_Adhara_Valla_Renatha_Sirait.jpg,79,Adhara Valla Renatha Sirait,10.5,Anemia Sedang
+data/images/080_Akifah_Sakha_Syabila.jpg,80,Akifah Sakha Syabila,10.9,Anemia Sedang
+data/images/081_Alona_Anindya.jpg,81,Alona Anindya,10.0,Anemia Sedang
+data/images/082_Andindita_Dealova.jpg,82,Andindita Dealova,11.4,Anemia Ringan
+data/images/083_Aulia_Apriliani_Agustina_S.jpg,83,Aulia Apriliani Agustina S,9.4,Anemia Sedang
+data/images/084_Aulla_Ryana.jpg,84,Aulla Ryana,10.1,Anemia Sedang
+data/images/085_Aurelhian_Fayhamaemi_Sulistyo.jpg,85,Aurelhian Fayhamaemi Sulistyo,10.9,Anemia Sedang
+data/images/086_Dzaskiyyah_Andini_Dwi_Putri.jpg,86,Dzaskiyyah Andini Dwi Putri,12.0,Tidak Anemia
+data/images/087_Faiza_Mufida.jpg,87,Faiza Mufida,12.0,Tidak Anemia
+data/images/088_Gina_Raudatul_Jannah.jpg,88,Gina Raudatul Jannah,8.8,Anemia Sedang
+data/images/089_Jeseline_Nita_Carlesa.jpg,89,Jeseline Nita Carlesa,11.5,Anemia Ringan
+data/images/090_Juliana.jpg,90,Juliana,9.3,Anemia Sedang
+data/images/091_Nadhira_Az-Zahra.jpg,91,Nadhira Az-Zahra,11.9,Anemia Ringan
+data/images/092_Nadine_Akela_Jasmine.jpg,92,Nadine Akela Jasmine,10.3,Anemia Sedang
+data/images/093_Penti_Rama_Dani.jpg,93,Penti Rama Dani,11.0,Anemia Ringan
+data/images/094_Salwa_Jannah_Pramita.jpg,94,Salwa Jannah Pramita,9.5,Anemia Sedang
+data/images/095_Syifa_Lastaria.jpg,95,Syifa Lastaria,9.5,Anemia Sedang
+data/images/096_Tri_Putri_Wahyu_Ningrum.jpg,96,Tri Putri Wahyu Ningrum,11.0,Anemia Ringan
+data/images/097_Viola_Florencia.jpg,97,Viola Florencia,9.7,Anemia Sedang
+data/images/098_Cinta_Harianti.jpg,98,Cinta Harianti,10.8,Anemia Sedang
+data/images/099_Alifa_Putri_Fizhriya.jpg,99,Alifa Putri Fizhriya,12.0,Tidak Anemia
+data/images/100_Anindiya_Morin_Tarnida.jpg,100,Anindiya Morin Tarnida,10.8,Anemia Sedang
+data/images/101_Azaziah_Ramadani.jpg,101,Azaziah Ramadani,9.1,Anemia Sedang
+data/images/102_Bunga_Auliea.jpg,102,Bunga Auliea,11.0,Anemia Ringan
+data/images/103_Cah_Ayu_Ghaziyah_Ramadhani.jpg,103,Cah Ayu Ghaziyah Ramadhani,11.6,Anemia Ringan
+data/images/104_Cherin_Afiqah_Samsyah.jpg,104,Cherin Afiqah Samsyah,10.9,Anemia Sedang
+data/images/105_Chery_Bunga_Andini.jpg,105,Chery Bunga Andini,8.7,Anemia Sedang
+data/images/106_Damita_Casya_Br_Sembiring.jpg,106,Damita Casya Br Sembiring,10.2,Anemia Sedang
+data/images/107_Fania_Surya_Salsabila.jpg,107,Fania Surya Salsabila,9.9,Anemia Sedang
+data/images/108_Kalila_Wanda_Rahayu.jpg,108,Kalila Wanda Rahayu,9.4,Anemia Sedang
+data/images/109_Khairah_Nadia_Farhana.jpg,109,Khairah Nadia Farhana,12.0,Tidak Anemia
+data/images/110_Meirissa_Putri_Rismansyah.jpg,110,Meirissa Putri Rismansyah,11.6,Anemia Ringan
+data/images/111_Meyzah_Asifa_Dwi_Afriani.jpg,111,Meyzah Asifa Dwi Afriani,11.7,Anemia Ringan
+data/images/112_Raissa_Alesia_Talitha.jpg,112,Raissa Alesia Talitha,8.7,Anemia Sedang
+data/images/113_Widya_Rahmawati.jpg,113,Widya Rahmawati,9.2,Anemia Sedang
+data/images/114_Zahra_Salwa_Aisy.jpg,114,Zahra Salwa Aisy,11.1,Anemia Ringan
+data/images/115_Vioni_Nurhasanah.jpg,115,Vioni Nurhasanah,13.2,Tidak Anemia
+data/images/116_Reti_Santia.jpg,116,Reti Santia,10.8,Anemia Sedang
+data/images/117_Amanda_Devina.jpg,117,Amanda Devina,12.2,Tidak Anemia
+data/images/118_T.Dewi_Rosita.jpg,118,T.Dewi Rosita,10.5,Anemia Sedang
+data/images/119_Syaffa_Dila_Andriana.jpg,119,Syaffa Dila Andriana,11.7,Anemia Ringan
+data/images/120_Sahara_Tri_Sakti.jpg,120,Sahara Tri Sakti,11.8,Anemia Ringan
+data/images/121_Mila_Wati.jpg,121,Mila Wati,13.3,Tidak Anemia
+data/images/122_Vina_Amanda_Marsiliah.jpg,122,Vina Amanda Marsiliah,11.1,Anemia Ringan
+data/images/123_Vonia_Estrelita.jpg,123,Vonia Estrelita,11.4,Anemia Ringan
+data/images/124_Elsa_Eza_Alivia.jpg,124,Elsa Eza Alivia,12.3,Tidak Anemia
+data/images/125_Sinta_Clombusta.jpg,125,Sinta Clombusta,8.3,Anemia Sedang
+data/images/126_Audi_Nurul_Salsabila.jpg,126,Audi Nurul Salsabila,9.6,Anemia Sedang
+data/images/127_Meilycha_Ayunda_Putri.jpg,127,Meilycha Ayunda Putri,12.4,Tidak Anemia
+data/images/128_Chintia_Dwi_Rahmadani.jpg,128,Chintia Dwi Rahmadani,12.0,Tidak Anemia
+data/images/129_Mutia_Rhamanah_Diwi.jpg,129,Mutia Rhamanah Diwi,11.3,Anemia Ringan
+data/images/130_Jesi_Aprianti.jpg,130,Jesi Aprianti,12.6,Tidak Anemia
+data/images/131_Suci_Elza_Hasani.jpg,131,Suci Elza Hasani,12.6,Tidak Anemia
+data/images/132_Yunita_Permata_Sari.jpg,132,Yunita Permata Sari,13.5,Tidak Anemia
+data/images/133_Monicha_Arisandi.jpg,133,Monicha Arisandi,14.6,Tidak Anemia
+data/images/134_Dian_Erlina_Sari.jpg,134,Dian Erlina Sari,11.3,Anemia Ringan
+data/images/135_Gusyalena_Azzahra_Putri.jpg,135,Gusyalena Azzahra Putri,12.0,Tidak Anemia
+data/images/136_Rahma_Prima_Putri.jpg,136,Rahma Prima Putri,12.4,Tidak Anemia
+data/images/137_Amanda_Nurhidayah.jpg,137,Amanda Nurhidayah,14.3,Tidak Anemia
+data/images/138_Amanda_Cerina_Dewana.jpg,138,Amanda Cerina Dewana,14.9,Tidak Anemia
+data/images/139_Pasha_Cahya_Utami.jpg,139,Pasha Cahya Utami,13.0,Tidak Anemia
+data/images/140_Rini_Dwi_Amalya.jpg,140,Rini Dwi Amalya,13.7,Tidak Anemia
+data/images/141_Chintya_Wardini.jpg,141,Chintya Wardini,12.9,Tidak Anemia
+data/images/142_Repa_Ghina_Sonia.jpg,142,Repa Ghina Sonia,12.9,Tidak Anemia
+data/images/143_Dwi_Romadho.jpg,143,Dwi Romadho,12.2,Tidak Anemia
+data/images/144_Lisa_Inayah.jpg,144,Lisa Inayah,10.6,Anemia Sedang
+data/images/145_Gita_Putri_Utami.jpg,145,Gita Putri Utami,12.4,Tidak Anemia
+data/images/146_Neysia.jpg,146,Neysia,11.8,Anemia Ringan
+data/images/147_Rahma_Nur_Athiyya.jpg,147,Rahma Nur Athiyya,14.6,Tidak Anemia
+data/images/148_Dinda_Slivira.jpg,148,Dinda Slivira,12.9,Tidak Anemia
+data/images/149_Wafiyati_Khairunnnisa.jpg,149,Wafiyati Khairunnnisa,12.1,Tidak Anemia
+data/images/150_Nabila_Septariani.jpg,150,Nabila Septariani,11.2,Anemia Ringan
+data/images/151_Silvia_Anggraini.jpg,151,Silvia Anggraini,13.2,Tidak Anemia
+data/images/152_Fadila_Rizki_A.jpg,152,Fadila Rizki A,12.8,Tidak Anemia
+data/images/153_Dhea_Citra_Maharani_Rf.jpg,153,Dhea Citra Maharani Rf,10.1,Anemia Sedang
+data/images/154_Lista.jpg,154,Lista,15.4,Tidak Anemia
+data/images/155_Esa_Aulia_M.Nasir.jpg,155,Esa Aulia M.Nasir,14.3,Tidak Anemia
+data/images/156_Winda_Selvia_R.jpg,156,Winda Selvia R,13.6,Tidak Anemia
+data/images/157_Erva_Aulia_Janna.jpg,157,Erva Aulia Janna,10.7,Anemia Sedang
+data/images/158_Rahayu_Dwi_Pratiwi.jpg,158,Rahayu Dwi Pratiwi,11.1,Anemia Ringan
+data/images/159_Tri_Yulia_Puspita.jpg,159,Tri Yulia Puspita,12.3,Tidak Anemia
+data/images/160_Sabrina.jpg,160,Sabrina ,13.8,Tidak Anemia
+data/images/161_Arzerin.jpg,161,Arzerin,11.3,Anemia Ringan
+data/images/162_Zelfi_Tri_Mardianti.jpg,162,Zelfi Tri Mardianti,12.8,Tidak Anemia
+data/images/163_Zakia.jpg,163,Zakia,13.5,Tidak Anemia
+data/images/164_Riski_Intan.jpg,164,Riski Intan,12.3,Tidak Anemia
+data/images/165_Zeli.jpg,165,Zeli,13.5,Tidak Anemia
+data/images/166_Cahya.jpg,166,Cahya,10.3,Anemia Sedang
+data/images/167_Audi.jpg,167,Audi ,13.3,Tidak Anemia
+data/images/168_Umi_Atiya.jpg,168,Umi Atiya,13.3,Tidak Anemia
+data/images/169_Sherly.jpg,169,Sherly,13.9,Tidak Anemia
+data/images/170_Alia.jpg,170,Alia,11.7,Anemia Ringan
+data/images/171_Fathiya.jpg,171,Fathiya,11.0,Anemia Ringan
+data/images/172_Nisrina.jpg,172,Nisrina,10.9,Anemia Sedang
+data/images/173_Elsha_Chirstin.jpg,173,Elsha Chirstin,14.7,Tidak Anemia
+data/images/174_Adelia_Anjelika.jpg,174,Adelia Anjelika,11.8,Anemia Ringan
+data/images/175_Mellthya_Qori.jpg,175,Mellthya Qori,10.7,Anemia Sedang
+data/images/176_Aisyah.jpg,176,Aisyah,15.1,Tidak Anemia
+data/images/177_Karunia_Intan_Purnama.jpg,177,Karunia Intan Purnama,11.1,Anemia Ringan
+data/images/178_Seril.jpg,178,Seril,13.6,Tidak Anemia
+data/images/179_Fitria_Ogina.jpg,179,Fitria Ogina,13.7,Tidak Anemia
+data/images/180_Intan.jpg,180,Intan,14.9,Tidak Anemia
+data/images/181_Nasywa.jpg,181,Nasywa,13.7,Tidak Anemia
+data/images/182_Anggun_Dwinda.jpg,182,Anggun Dwinda,11.0,Anemia Ringan
+data/images/183_Richa_Amelia.jpg,183,Richa Amelia,13.5,Tidak Anemia
+data/images/184_Dinda.jpg,184,Dinda ,11.4,Anemia Ringan
+data/images/185_Anisya.jpg,185,Anisya,12.0,Tidak Anemia
+data/images/186_Suci.jpg,186,Suci ,12.9,Tidak Anemia
+data/images/187_Zeli_Anggraini.jpg,187,Zeli Anggraini,12.6,Tidak Anemia
+data/images/188_Salsabila.jpg,188,Salsabila,13.5,Tidak Anemia
+data/images/189_Qori.jpg,189,Qori,11.0,Anemia Ringan
+data/images/190_Aprilia.jpg,190,Aprilia,14.2,Tidak Anemia
+data/images/191_Aulia.jpg,191,Aulia,11.5,Anemia Ringan
+data/images/192_Faiza.jpg,192,Faiza,13.7,Tidak Anemia
+data/images/193_zahra.jpg,193,zahra,11.1,Anemia Ringan
+data/images/194_Viona.jpg,194,Viona,11.9,Anemia Ringan
+data/images/195_Adinda.jpg,195,Adinda ,11.4,Anemia Ringan
+data/images/196_Rahmatin.jpg,196,Rahmatin,13.1,Tidak Anemia
+data/images/197_Elin.jpg,197,Elin,12.9,Tidak Anemia
+data/images/198_Mezi.jpg,198,Mezi,11.8,Anemia Ringan
+data/images/199_Zella.jpg,199,Zella,12.9,Tidak Anemia
+data/images/200_Astri_Rahma.jpg,200,Astri Rahma,11.6,Anemia Ringan
+data/images/201_Ayu.jpg,201,Ayu,10.4,Anemia Sedang
+data/images/202_Siti_Tria.jpg,202,Siti Tria,11.4,Anemia Ringan
+data/images/203_Vina_Putri.jpg,203,Vina Putri,11.3,Anemia Ringan
+data/images/204_Tiara.jpg,204,Tiara ,12.0,Tidak Anemia
+data/images/205_Fuan_Fadillah.jpg,205,Fuan Fadillah,14.0,Tidak Anemia
+data/images/206_Imelda.jpg,206,Imelda,10.4,Anemia Sedang
+data/images/207_Wulan.jpg,207,Wulan,12.6,Tidak Anemia
+data/images/208_Nabila_Putri.jpg,208,Nabila Putri,12.2,Tidak Anemia
+data/images/209_Nopitasari.jpg,209,Nopitasari,9.7,Anemia Sedang
+data/images/210_Mariani.jpg,210,Mariani,11.1,Anemia Ringan
+data/images/211_Dea.jpg,211,Dea,10.9,Anemia Sedang
+data/images/212_Anggun.jpg,212,Anggun ,12.0,Tidak Anemia
+data/images/213_Ramadona.jpg,213,Ramadona,13.3,Tidak Anemia
+data/images/214_Bunga.jpg,214,Bunga ,11.3,Anemia Ringan
+data/images/215_Dea_Ayu.jpg,215,Dea Ayu,10.2,Anemia Sedang
+data/images/216_Lola.jpg,216,Lola,13.2,Tidak Anemia
+data/images/217_Wanda.jpg,217,Wanda,11.5,Anemia Ringan
+data/images/218_Dewinda.jpg,218,Dewinda,16.0,Tidak Anemia
+data/images/219_Debi_Intra.jpg,219,Debi Intra,13.5,Tidak Anemia
+data/images/220_Febi.jpg,220,Febi,12.2,Tidak Anemia
+data/images/221_Yuli.jpg,221,Yuli,11.4,Anemia Ringan
+data/images/222_Heni.jpg,222,Heni,10.2,Anemia Sedang
+data/images/223_Citra.jpg,223,Citra,12.0,Tidak Anemia
+data/images/224_Desi.jpg,224,Desi,12.0,Tidak Anemia
+data/images/225_Dira_Inameria.jpg,225,Dira Inameria,12.0,Tidak Anemia
+data/images/226_Elvi.jpg,226,Elvi,12.0,Tidak Anemia
+data/images/227_Lidia.jpg,227,Lidia,12.0,Tidak Anemia
+data/images/228_Tiara.jpg,228,Tiara ,14.0,Tidak Anemia
+data/images/229_Indah.jpg,229,Indah,13.0,Tidak Anemia
+data/images/230_Siti_Fatimah.jpg,230,Siti Fatimah,12.0,Tidak Anemia
+data/images/231_Linda_Sitompul.jpg,231,Linda Sitompul,12.0,Tidak Anemia
+data/images/232_Yayuk.jpg,232,Yayuk,12.0,Tidak Anemia
+data/images/233_Yanti_Surtianti.jpg,233,Yanti Surtianti,12.0,Tidak Anemia
+data/images/234_Weni.jpg,234,Weni,12.0,Tidak Anemia
+data/images/235_Mike.jpg,235,Mike,12.0,Tidak Anemia
+data/images/236_Maida.jpg,236,Maida,12.0,Tidak Anemia
+data/images/237_Sri_Maryati.jpg,237,Sri Maryati,12.0,Tidak Anemia
+data/images/238_Ovie.jpg,238,Ovie,12.0,Tidak Anemia
+data/images/239_Deti.jpg,239,Deti,12.0,Tidak Anemia
+data/images/240_Popi.jpg,240,Popi,15.0,Tidak Anemia
+data/images/241_Kurniati.jpg,241,Kurniati,12.0,Tidak Anemia
+data/images/242_Heti_Wahyuni.jpg,242,Heti Wahyuni,12.0,Tidak Anemia
+data/images/243_Andrika.jpg,243,Andrika,13.0,Tidak Anemia
+data/images/244_Resya.jpg,244,Resya,12.0,Tidak Anemia
+data/images/245_Fatima.jpg,245,Fatima,12.0,Tidak Anemia
+data/images/246_Beti_Andiarti.jpg,246,Beti Andiarti,12.0,Tidak Anemia
+data/images/247_Ade.jpg,247,Ade,12.0,Tidak Anemia
+data/images/248_Ayu.jpg,248,Ayu,12.0,Tidak Anemia
+data/images/249_Yusni_Hartati.jpg,249,Yusni Hartati,12.0,Tidak Anemia
+data/images/250_Yunita.jpg,250,Yunita,12.0,Tidak Anemia
+data/images/251_Susi_Minarti.jpg,251,Susi Minarti,14.0,Tidak Anemia
+data/images/252_Lusi_Andriani.jpg,252,Lusi Andriani,12.0,Tidak Anemia
+data/images/253_Silpia.jpg,253,Silpia,12.0,Tidak Anemia
+data/images/254_Ade_Ayu.jpg,254,Ade Ayu,12.0,Tidak Anemia
+data/images/255_Wiwit.jpg,255,Wiwit,12.0,Tidak Anemia
+data/images/256_Septianti.jpg,256,Septianti,12.0,Tidak Anemia
+data/images/257_Septi_Eryani.jpg,257,Septi Eryani,12.0,Tidak Anemia
+data/images/258_Sari_Novrina.jpg,258,Sari Novrina,12.0,Tidak Anemia
+data/images/259_Risda_Yulianti.jpg,259,Risda Yulianti,12.0,Tidak Anemia
+data/images/260_Nispy.jpg,260,Nispy,12.0,Tidak Anemia
+data/images/261_Lissa_Erfina.jpg,261,Lissa Erfina,12.0,Tidak Anemia
+data/images/262_Irvina_Safitri.jpg,262,Irvina Safitri,12.0,Tidak Anemia
+data/images/263_Halimah.jpg,263,Halimah,12.0,Tidak Anemia
+data/images/264_Andeka.jpg,264,Andeka,12.0,Tidak Anemia
+data/images/265_Ratna_Dewi.jpg,265,Ratna Dewi,12.0,Tidak Anemia
+data/images/266_Retno.jpg,266,Retno,12.0,Tidak Anemia
+data/images/267_Mariati.jpg,267,Mariati,12.0,Tidak Anemia
+data/images/268_Farida_Hayati.jpg,268,Farida Hayati,12.0,Tidak Anemia
+data/images/269_Erni_Bustom.jpg,269,Erni Bustom,12.0,Tidak Anemia
+data/images/270_Elvita_Dewi.jpg,270,Elvita Dewi,12.0,Tidak Anemia
+data/images/271_Eliana.jpg,271,Eliana,12.0,Tidak Anemia
+data/images/272_Delta.jpg,272,Delta,15.0,Tidak Anemia
+data/images/273_Betty_Yosephin.jpg,273,Betty Yosephin,12.0,Tidak Anemia
+data/images/274_Julita_Cherly.jpg,274,Julita Cherly,12.0,Tidak Anemia
+data/images/275_Eka_Purwanti.jpg,275,Eka Purwanti,12.0,Tidak Anemia
+data/images/276_Khelli.jpg,276,Khelli,12.0,Tidak Anemia
+data/images/277_Renta.jpg,277,Renta,13.0,Tidak Anemia
+data/images/278_Nelly.jpg,278,Nelly,14.0,Tidak Anemia
+data/images/279_Rina_Andalina.jpg,279,Rina Andalina,13.0,Tidak Anemia
+data/images/280_Lia_Martasari.jpg,280,Lia Martasari,12.0,Tidak Anemia
+data/images/281_Tetti_Marlina.jpg,281,Tetti Marlina,12.0,Tidak Anemia
+data/images/282_Bunga.jpg,282,Bunga,12.0,Tidak Anemia
+data/images/283_Atek.jpg,283,Atek,12.0,Tidak Anemia
+data/images/284_Yusmidiarti.jpg,284,Yusmidiarti,12.0,Tidak Anemia
+data/images/285_Desi_Wahyunita.jpg,285,Desi Wahyunita,12.0,Tidak Anemia
+data/images/286_Rosalia_Rina.jpg,286,Rosalia Rina,13.0,Tidak Anemia
+data/images/287_Epti.jpg,287,Epti,12.0,Tidak Anemia
+data/images/288_Diah_Eka.jpg,288,Diah Eka,12.0,Tidak Anemia
+data/images/289_Ria_Novika.jpg,289,Ria Novika,12.0,Tidak Anemia
+data/images/290_Dwi_Junita_(baska).jpg,290,Dwi Junita (baska),12.0,Tidak Anemia
+data/images/291_Sri_Yanniarti.jpg,291,Sri Yanniarti,12.0,Tidak Anemia
+data/images/292_Putri.jpg,292,Putri,10.0,Anemia Sedang
+data/images/293_Dwi_Wulandari.jpg,293,Dwi Wulandari,12.0,Tidak Anemia
+data/images/294_Mercy.jpg,294,Mercy,12.0,Tidak Anemia
+data/images/295_Rina.jpg,295,Rina,12.0,Tidak Anemia
+data/images/296_Andita.jpg,296,Andita,12.0,Tidak Anemia
+data/images/297_Widia_Lestari.jpg,297,Widia Lestari,12.0,Tidak Anemia
+data/images/298_Emi_Juliantini.jpg,298,Emi Juliantini,13.0,Tidak Anemia
+data/images/299_Husni.jpg,299,Husni,12.0,Tidak Anemia
+data/images/300_Halimatussadiah.jpg,300,Halimatussadiah,12.0,Tidak Anemia
+data/images/301_Suci_Sartika.jpg,301,Suci Sartika,12.0,Tidak Anemia
+data/images/302_Elli_W.jpg,302,Elli W,12.0,Tidak Anemia
+data/images/303_Reka_Lagora.jpg,303,Reka Lagora,12.0,Tidak Anemia
+data/images/304_Respa_Menisasti.jpg,304,Respa Menisasti,12.0,Tidak Anemia
+data/images/305_Avrilya_Iqorany.jpg,305,Avrilya Iqorany,13.0,Tidak Anemia
+data/images/306_Rahmanisa.jpg,306,Rahmanisa,12.0,Tidak Anemia
+data/images/307_Yunita_Hotmaria.jpg,307,Yunita Hotmaria,12.0,Tidak Anemia
+data/images/308_Widia.jpg,308,Widia,12.0,Tidak Anemia
+data/images/309_Vina.jpg,309,Vina,12.0,Tidak Anemia
+data/images/310_Sakia.jpg,310,Sakia,13.0,Tidak Anemia
+data/images/311_Tri_Ramadanti.jpg,311,Tri Ramadanti,12.0,Tidak Anemia
+data/images/312_Krisyanella.jpg,312,Krisyanella,12.0,Tidak Anemia
+data/images/313_Susi_Mareska.jpg,313,Susi Mareska,12.0,Tidak Anemia
+data/images/314_Realike_Burhan.jpg,314,Realike Burhan,12.0,Tidak Anemia
+data/images/315_Lela.jpg,315,Lela,14.3,Tidak Anemia
+data/images/316_Inelia.jpg,316,Inelia,12.0,Tidak Anemia
+data/images/317_Qonita.jpg,317,Qonita,12.0,Tidak Anemia
+data/images/318_Cheisy.jpg,318,Cheisy,12.0,Tidak Anemia
+data/images/319_Nadila.jpg,319,Nadila,13.0,Tidak Anemia
+data/images/320_Hani.jpg,320,Hani,12.0,Tidak Anemia
+data/images/321_Diva.jpg,321,Diva,12.0,Tidak Anemia
+data/images/322_Luthfia.jpg,322,Luthfia,12.0,Tidak Anemia
+data/images/323_Naidila.jpg,323,Naidila,12.0,Tidak Anemia
+data/images/324_Syifa.jpg,324,Syifa,12.0,Tidak Anemia
+data/images/325_Shania.jpg,325,Shania,12.0,Tidak Anemia
+data/images/326_Kayla.jpg,326,Kayla,12.0,Tidak Anemia
+data/images/327_Elliza.jpg,327,Elliza,12.0,Tidak Anemia
+data/images/328_Dwike.jpg,328,Dwike,12.0,Tidak Anemia
+data/images/329_Centya.jpg,329,Centya,12.0,Tidak Anemia
+data/images/330_Fira.jpg,330,Fira,12.0,Tidak Anemia
+data/images/331_Nayla_A.D.jpg,331,Nayla A.D,12.0,Tidak Anemia
+data/images/332_Zakia_A.jpg,332,Zakia A,10.6,Anemia Sedang
+data/images/333_Citra_Elidia.jpg,333,Citra Elidia,12.0,Tidak Anemia
+data/images/334_Nayla_Diva_Amalia.jpg,334,Nayla Diva Amalia,12.0,Tidak Anemia
+data/images/335_Bella_Yudes.jpg,335,Bella Yudes,12.0,Tidak Anemia
+data/images/336_Yesi_Putri.jpg,336,Yesi Putri,12.0,Tidak Anemia
+data/images/337_Sindi_Tria.jpg,337,Sindi Tria,12.0,Tidak Anemia
+data/images/338_Riski_Intan.jpg,338,Riski Intan,12.0,Tidak Anemia
+data/images/339_Natalie.jpg,339,Natalie,12.0,Tidak Anemia
+data/images/340_Resti_Suci.jpg,340,Resti Suci,12.0,Tidak Anemia
+data/images/341_Lutfi_Ade.jpg,341,Lutfi Ade,12.0,Tidak Anemia
+data/images/342_Nabila_Ayu.jpg,342,Nabila Ayu,10.0,Anemia Sedang
+data/images/343_Dinda_Septiara.jpg,343,Dinda Septiara,12.0,Tidak Anemia
+data/images/344_Tara_Amanda.jpg,344,Tara Amanda,12.0,Tidak Anemia
+data/images/345_Betty_Rezky.jpg,345,Betty Rezky ,12.0,Tidak Anemia
+data/images/346_Sesi.jpg,346,Sesi,12.0,Tidak Anemia
+data/images/347_Mutiara_Andini.jpg,347,Mutiara Andini,12.0,Tidak Anemia
+data/images/348_Arra_Aprilia.jpg,348,Arra Aprilia,12.0,Tidak Anemia
+data/images/349_Dhea_Amelia.jpg,349,Dhea Amelia,12.0,Tidak Anemia
+data/images/350_Enisa_Dwi_Putri.jpg,350,Enisa Dwi Putri,12.0,Tidak Anemia
+data/images/351_Zaza.jpg,351,Zaza,12.0,Tidak Anemia
+data/images/352_Nadia_Putri.jpg,352,Nadia Putri,10.0,Anemia Sedang
+data/images/353_Anisa_Dwi.jpg,353,Anisa Dwi ,12.0,Tidak Anemia
+data/images/354_Deki_Rimis_Sandra.jpg,354,Deki Rimis Sandra,12.0,Tidak Anemia
+data/images/355_Anisa_Fitria.jpg,355,Anisa Fitria ,12.0,Tidak Anemia
+data/images/356_Meltri_Intan.jpg,356,Meltri Intan,12.0,Tidak Anemia
+data/images/357_Astri_Rosmalia.jpg,357,Astri Rosmalia,12.0,Tidak Anemia
+data/images/358_Febby.jpg,358,Febby,12.0,Tidak Anemia
+data/images/359_Latifah.jpg,359,Latifah,13.0,Tidak Anemia
+data/images/360_Shely_A.jpg,360,Shely A,12.0,Tidak Anemia
+data/images/361_Anika_Fitri.jpg,361,Anika Fitri,12.0,Tidak Anemia
+data/images/362_Fike_Diaz.jpg,362,Fike Diaz,12.0,Tidak Anemia
+data/images/363_Putri_Rahma_Sari.jpg,363,Putri Rahma Sari,12.0,Tidak Anemia
+data/images/364_Dina_Apriani.jpg,364,Dina Apriani,12.0,Tidak Anemia
+data/images/365_Della_Mardalena.jpg,365,Della Mardalena,12.0,Tidak Anemia
+data/images/366_Anggun.jpg,366,Anggun ,12.0,Tidak Anemia
+data/images/367_Siska_A.jpg,367,Siska A,10.4,Anemia Sedang
+data/images/368_Aisyah_Julianti.jpg,368,Aisyah Julianti,12.0,Tidak Anemia
+data/images/369_Aisyah_Sintia.jpg,369,Aisyah Sintia,12.0,Tidak Anemia
+data/images/370_Zaskia_Rifah.jpg,370,Zaskia Rifah,12.0,Tidak Anemia
+data/images/371_Anisa.jpg,371,Anisa,12.0,Tidak Anemia
+data/images/372_Rossa_L.jpg,372,Rossa L,12.0,Tidak Anemia
+data/images/373_Aliyah_Nurfadhila.jpg,373,Aliyah Nurfadhila,12.0,Tidak Anemia
+data/images/374_Kiki_Novitasari.jpg,374,Kiki Novitasari,12.0,Tidak Anemia
+data/images/375_Nayla_G.jpg,375,Nayla G,12.0,Tidak Anemia
+data/images/376_Anisa_W.jpg,376,Anisa W,12.0,Tidak Anemia
+data/images/377_Anggi_Miranda.jpg,377,Anggi Miranda,12.0,Tidak Anemia
+data/images/378_Salma_Nabilah.jpg,378,Salma Nabilah,12.0,Tidak Anemia
+data/images/379_Aisyah_Fadhilah.jpg,379,Aisyah Fadhilah,12.0,Tidak Anemia
+data/images/380_Tira_Junika.jpg,380,Tira Junika,12.0,Tidak Anemia
+data/images/381_Rahmadani.jpg,381,Rahmadani,10.0,Anemia Sedang
+data/images/382_Dewi_K.jpg,382,Dewi K,12.0,Tidak Anemia
+data/images/383_Destya_Maharani.jpg,383,Destya Maharani,12.0,Tidak Anemia
+data/images/384_Auliyah_Nur_R.jpg,384,Auliyah Nur R,10.0,Anemia Sedang
+data/images/385_Emdita.jpg,385,Emdita,12.0,Tidak Anemia
+data/images/386_Try.jpg,386,Try,12.0,Tidak Anemia
+data/images/387_Aniqa_Nur.jpg,387,Aniqa Nur,12.0,Tidak Anemia
+data/images/388_Selpia_Sucice.jpg,388,Selpia Sucice,12.0,Tidak Anemia
+data/images/389_Elia_Puspa.jpg,389,Elia Puspa,12.0,Tidak Anemia
+data/images/390_Rewia_Inka.jpg,390,Rewia Inka,12.0,Tidak Anemia
+data/images/391_Serly_Aisyah_F.jpg,391,Serly Aisyah F,12.0,Tidak Anemia
+data/images/392_Nabila_Dian.jpg,392,Nabila Dian ,12.0,Tidak Anemia
+data/images/393_Zaskia_I.jpg,393,Zaskia I,11.0,Anemia Ringan
+data/images/394_Shafa_Anisa.jpg,394,Shafa Anisa,12.0,Tidak Anemia
+data/images/395_Dita_Nadhilah.jpg,395,Dita Nadhilah,12.0,Tidak Anemia
+data/images/396_Selli_Alfaurina.jpg,396,Selli Alfaurina,12.0,Tidak Anemia
+data/images/397_Nyi_Ajeng.jpg,397,Nyi Ajeng,12.0,Tidak Anemia
+data/images/398_Febriza.jpg,398,Febriza,12.0,Tidak Anemia
+data/images/399_Rani_Meysi.jpg,399,Rani Meysi,12.0,Tidak Anemia
+data/images/400_Dhea_Riski.jpg,400,Dhea Riski,12.0,Tidak Anemia
+data/images/401_Raysah_Naura.jpg,401,Raysah Naura,12.0,Tidak Anemia
+data/images/402_Keisya.jpg,402,Keisya,12.0,Tidak Anemia
+data/images/403_Vica.jpg,403,Vica,12.0,Tidak Anemia
+data/images/404_Tia_Ade.jpg,404,Tia Ade,12.0,Tidak Anemia
+data/images/405_Intan_Purnama.jpg,405,Intan Purnama,12.0,Tidak Anemia
+data/images/406_Dinda_Puspita.jpg,406,Dinda Puspita,9.0,Anemia Sedang
+data/images/407_Neyzia.jpg,407,Neyzia,12.0,Tidak Anemia
+data/images/408_Desi_Fitria.jpg,408,Desi Fitria,11.0,Anemia Ringan
+data/images/409_Dita_M.jpg,409,Dita M,12.0,Tidak Anemia
+data/images/410_Intan_Destika.jpg,410,Intan Destika,8.0,Anemia Sedang
+data/images/411_Rahyuniarti.jpg,411,Rahyuniarti,12.0,Tidak Anemia
+data/images/412_Errina.jpg,412,Errina,12.0,Tidak Anemia
+data/images/413_Thesa.jpg,413,Thesa,12.0,Tidak Anemia
+data/images/414_Nazwa.jpg,414,Nazwa,12.0,Tidak Anemia
+data/images/415_Sirina.jpg,415,Sirina,12.0,Tidak Anemia
+data/images/416_Putri.jpg,416,Putri,12.0,Tidak Anemia
+data/images/417_Helen_Albaina.jpg,417,Helen Albaina,12.0,Tidak Anemia
+data/images/418_Nur_Andeni.jpg,418,Nur Andeni,12.0,Tidak Anemia
+data/images/419_Putri_Khatrima_Ningsih.jpg,419,Putri Khatrima Ningsih,12.9,Tidak Anemia
+data/images/420_Cicilia.jpg,420,Cicilia,11.4,Anemia Ringan
+data/images/421_Meysin_C.jpg,421,Meysin C,12.4,Tidak Anemia
+data/images/422_Rani_Septi.jpg,422,Rani Septi,9.9,Anemia Sedang
+data/images/423_Rahayu.jpg,423,Rahayu,12.0,Tidak Anemia
+data/images/424_Selvia_R.jpg,424,Selvia R,10.3,Anemia Sedang
+data/images/425_Yulianah.jpg,425,Yulianah,8.7,Anemia Sedang
+data/images/426_Trisna.jpg,426,Trisna,13.1,Tidak Anemia
+data/images/427_Selvy.jpg,427,Selvy,12.8,Tidak Anemia
+data/images/428_Repi_Juliestari.jpg,428,Repi Juliestari,11.4,Anemia Ringan
+data/images/429_Sinta_Novita.jpg,429,Sinta Novita,12.7,Tidak Anemia
+data/images/430_Yeta_Oktarina.jpg,430,Yeta Oktarina,10.8,Anemia Sedang
+data/images/431_Reza_A.jpg,431,Reza A,12.9,Tidak Anemia
+data/images/432_Selly_Delvianti.jpg,432,Selly Delvianti,12.4,Tidak Anemia
+data/images/433_Mellyta_Putri.jpg,433,Mellyta Putri,11.1,Anemia Ringan
+data/images/434_Elvina.jpg,434,Elvina,12.8,Tidak Anemia
+data/images/435_Tri_Rani.jpg,435,Tri Rani,13.6,Tidak Anemia
+data/images/436_Siti_Nur.jpg,436,Siti Nur ,10.6,Anemia Sedang
+data/images/437_Laura_A.jpg,437,Laura A,9.9,Anemia Sedang
+data/images/438_Nayla_Cahya.jpg,438,Nayla Cahya,12.0,Tidak Anemia
+data/images/439_Hafizha.jpg,439,Hafizha,11.7,Anemia Ringan
+data/images/440_Rara.jpg,440,Rara,11.5,Anemia Ringan
+data/images/442_Eka_Erin.jpg,442,Eka Erin,12.0,Tidak Anemia
+data/images/443_Bella_O.jpg,443,Bella O,8.5,Anemia Sedang
+data/images/444_Lestari.jpg,444,Lestari ,12.2,Tidak Anemia
+data/images/446_Nabila_Eka.jpg,446,Nabila Eka,11.2,Anemia Ringan
+data/images/447_Helen_Natalia.jpg,447,Helen Natalia,10.6,Anemia Sedang
+data/images/448_Syntia_Dwi_P.jpg,448,Syntia Dwi P,12.9,Tidak Anemia
+data/images/449_Anggie.jpg,449,Anggie,11.3,Anemia Ringan
+data/images/450_Agta.jpg,450,Agta,11.2,Anemia Ringan
+data/images/451_Delva.jpg,451,Delva,11.1,Anemia Ringan
+data/images/452_Arin_Safta.jpg,452,Arin Safta,13.4,Tidak Anemia
+data/images/453_Rice_Juni.jpg,453,Rice Juni,12.8,Tidak Anemia
+data/images/454_Anggun.jpg,454,Anggun ,12.6,Tidak Anemia
+data/images/455_Amonita.jpg,455,Amonita,11.7,Anemia Ringan
+data/images/456_Ayu.jpg,456,Ayu,12.0,Tidak Anemia
+data/images/457_Dina_Stepani.jpg,457,Dina Stepani,11.8,Anemia Ringan
+data/images/458_Delta_Suci.jpg,458,Delta Suci,12.1,Tidak Anemia
+data/images/459_Aisyah.jpg,459,Aisyah,12.8,Tidak Anemia
+data/images/460_Ulfah.jpg,460,Ulfah,11.4,Anemia Ringan
+data/images/461_Anggun_Amanda.jpg,461,Anggun Amanda,10.6,Anemia Sedang
+data/images/462_Julia_Anggraini.jpg,462,Julia Anggraini,12.2,Tidak Anemia
+data/images/463_Vonia.jpg,463,Vonia,11.7,Anemia Ringan
+data/images/464_Zeniza_Putri.jpg,464,Zeniza Putri,13.5,Tidak Anemia
+data/images/465_Luviana.jpg,465,Luviana,12.8,Tidak Anemia
+data/images/466_Vina.jpg,466,Vina,8.9,Anemia Sedang
+data/images/467_Elma_P.jpg,467,Elma P,11.8,Anemia Ringan
+data/images/468_Elsha.jpg,468,Elsha ,13.5,Tidak Anemia
+data/images/469_Veli_Novitasari.jpg,469,Veli Novitasari,11.1,Anemia Ringan
+data/images/470_Meka.jpg,470,Meka,10.7,Anemia Sedang
+data/images/471_Noprida.jpg,471,Noprida,11.4,Anemia Ringan
+data/images/472_Kesya_Rizki.jpg,472,Kesya Rizki,12.9,Tidak Anemia
+data/images/473_Mella_Alya.jpg,473,Mella Alya,11.7,Anemia Ringan
+data/images/474_Kharistiyanti.jpg,474,Kharistiyanti,13.5,Tidak Anemia
+data/images/475_Kintan.jpg,475,Kintan,12.4,Tidak Anemia
+data/images/476_Selsa.jpg,476,Selsa,12.8,Tidak Anemia
+data/images/477_Imtinan.jpg,477,Imtinan,14.5,Tidak Anemia
+data/images/478_Vicky.jpg,478,Vicky,12.1,Tidak Anemia
+data/images/479_Zakia_Nabilah.jpg,479,Zakia Nabilah,13.0,Tidak Anemia
+data/images/480_Intan_Permata.jpg,480,Intan Permata,13.4,Tidak Anemia
+data/images/481_Tria_Elsa.jpg,481,Tria Elsa,13.2,Tidak Anemia
+data/images/482_Zaifah.jpg,482,Zaifah,10.2,Anemia Sedang
+data/images/483_Nabella.jpg,483,Nabella,12.2,Tidak Anemia
+data/images/484_Verly.jpg,484,Verly,12.6,Tidak Anemia
+data/images/485_Siti_Nur_Halizah.jpg,485,Siti Nur Halizah,10.8,Anemia Sedang
+data/images/486_Ukhty_Azizah.jpg,486,Ukhty Azizah,13.8,Tidak Anemia
+data/images/487_Novidia.jpg,487,Novidia,10.6,Anemia Sedang
+data/images/488_Winda.jpg,488,Winda,12.1,Tidak Anemia
+data/images/489_Tika.jpg,489,Tika,12.1,Tidak Anemia
+data/images/490_Fadilla_S.jpg,490,Fadilla S,12.4,Tidak Anemia
+data/images/491_Yosi.jpg,491,Yosi,10.1,Anemia Sedang
+data/images/492_Rahmadhianty.jpg,492,Rahmadhianty,11.0,Anemia Ringan
+data/images/493_Nadia_Tri.jpg,493,Nadia Tri ,10.5,Anemia Sedang
+data/images/494_Sepvriana.jpg,494,Sepvriana,13.9,Tidak Anemia
+data/images/495_Ranti.jpg,495,Ranti,14.0,Tidak Anemia
+data/images/496_Friska.jpg,496,Friska,12.4,Tidak Anemia
+data/images/497_Fadila.jpg,497,Fadila,13.5,Tidak Anemia
+data/images/498_Sofi_A.jpg,498,Sofi A,10.9,Anemia Sedang
+data/images/499_Nabilla.jpg,499,Nabilla ,10.9,Anemia Sedang
+data/images/500_Nur_Anissa.jpg,500,Nur Anissa,12.0,Tidak Anemia
+data/images/501_Selly_Tri.jpg,501,Selly Tri,11.3,Anemia Ringan
+data/images/502_Bunga.jpg,502,Bunga,14.4,Tidak Anemia
+data/images/503_Ayu.jpg,503,Ayu,8.1,Anemia Sedang
+data/images/504_Mia_Meisara.jpg,504,Mia Meisara,13.6,Tidak Anemia
+data/images/505_Riski_Amelia.jpg,505,Riski Amelia,11.2,Anemia Ringan
+data/images/506_Lusi.jpg,506,Lusi,12.6,Tidak Anemia
+data/images/507_Tadzkia.jpg,507,Tadzkia,12.5,Tidak Anemia
+data/images/508_Lessa_Resista.jpg,508,Lessa Resista,12.1,Tidak Anemia
+data/images/509_Bunga.jpg,509,Bunga,11.6,Anemia Ringan
+data/images/510_Melda.jpg,510,Melda,12.3,Tidak Anemia
+data/images/511_Lufiana.jpg,511,Lufiana,15.4,Tidak Anemia
+data/images/512_Widya.jpg,512,Widya,12.6,Tidak Anemia
+data/images/513_Arin_Diana.jpg,513,Arin Diana,13.4,Tidak Anemia
+data/images/514_Mutiara_M.jpg,514,Mutiara M,12.7,Tidak Anemia
+data/images/515_Martha_Lolyta.jpg,515,Martha Lolyta,13.5,Tidak Anemia
+data/images/516_Aghit_Fatehatul.jpg,516,Aghit Fatehatul,12.7,Tidak Anemia
+data/images/517_Yena_Rahmadanianti.jpg,517,Yena Rahmadanianti,12.5,Tidak Anemia
+data/images/518_Salsabillah_Bunga.jpg,518,Salsabillah Bunga,11.2,Anemia Ringan
+data/images/519_Nabila_Agustin.jpg,519,Nabila Agustin,12.2,Tidak Anemia
+data/images/520_Miranda.jpg,520,Miranda,13.6,Tidak Anemia
+data/images/521_Mellisa_Utama.jpg,521,Mellisa Utama,11.7,Anemia Ringan
+data/images/522_Tyara_Sita.jpg,522,Tyara Sita,12.4,Tidak Anemia
+data/images/523_Ayu_Natasya.jpg,523,Ayu Natasya,9.9,Anemia Sedang
+data/images/524_Piska_Ardila.jpg,524,Piska Ardila,12.5,Tidak Anemia
+data/images/525_Ine_Yunevi.jpg,525,Ine Yunevi,10.9,Anemia Sedang
+data/images/526_Riana_Junira.jpg,526,Riana Junira,12.2,Tidak Anemia
+data/images/527_Zakila_Fatiya.jpg,527,Zakila Fatiya ,13.3,Tidak Anemia
+data/images/528_Susen.jpg,528,Susen ,12.3,Tidak Anemia
+data/images/529_Arda_Fadillah.jpg,529,Arda Fadillah ,12.6,Tidak Anemia
+data/images/530_Yepi_Permata.jpg,530,Yepi Permata,11.6,Anemia Ringan
+data/images/531_Dira_Agustin.jpg,531,Dira Agustin,11.6,Anemia Ringan
+data/images/532_Virlli_Ramdhani.jpg,532,Virlli Ramdhani,11.1,Anemia Ringan
+data/images/533_Hanifah_Lestari.jpg,533,Hanifah Lestari,13.0,Tidak Anemia
+data/images/534_Layla_Arisyah.jpg,534,Layla Arisyah ,13.5,Tidak Anemia
+data/images/535_Tiara_Mustika.jpg,535,Tiara Mustika,13.1,Tidak Anemia
+data/images/536_Ranti_Mildasari.jpg,536,Ranti Mildasari,12.3,Tidak Anemia
+data/images/537_Defti_Amelia.jpg,537,Defti Amelia,11.3,Anemia Ringan
+data/images/538_Dwi_apriani.jpg,538,Dwi apriani,13.4,Tidak Anemia
+data/images/539_Arum_Fadillah.jpg,539,Arum Fadillah,12.0,Tidak Anemia
+data/images/540_Risa_Hendari.jpg,540,Risa Hendari,10.4,Anemia Sedang
+data/images/541_Saskyia_Khairunisa.jpg,541,Saskyia Khairunisa,12.9,Tidak Anemia
+data/images/542_Fadilla_Nur.jpg,542,Fadilla Nur,15.2,Tidak Anemia
+data/images/543_Nabilla_L_Suhada.jpg,543,Nabilla L Suhada,12.8,Tidak Anemia
+data/images/544_Siti_Zahra.jpg,544,Siti Zahra,12.7,Tidak Anemia
+data/images/545_Nadia_Utami.jpg,545,Nadia Utami,14.2,Tidak Anemia
+data/images/546_Meylani_Gustini.jpg,546,Meylani Gustini,13.0,Tidak Anemia
+data/images/547_Yola_Mala.jpg,547,Yola Mala,13.7,Tidak Anemia
+data/images/548_Resti.jpg,548,Resti,12.9,Tidak Anemia
+data/images/549_Nurayu_Lisita.jpg,549,Nurayu Lisita,14.9,Tidak Anemia
+data/images/550_Muza_Ana.jpg,550,Muza Ana,15.7,Tidak Anemia
+data/images/551_Nasywa_Dwi.jpg,551,Nasywa Dwi,15.9,Tidak Anemia
+data/images/552_Intan_Nur.jpg,552,Intan Nur,13.0,Tidak Anemia
+data/images/553_Citra_Aolya.jpg,553,Citra Aolya,13.4,Tidak Anemia
+data/images/554_Rassya_Nailah.jpg,554,Rassya Nailah ,11.7,Anemia Ringan
+data/images/555_Salwa_Tri.jpg,555,Salwa Tri ,14.3,Tidak Anemia
+data/images/556_Shindy_Cantika.jpg,556,Shindy Cantika,14.2,Tidak Anemia
+data/images/557_Rahmatul_Aulia.jpg,557,Rahmatul Aulia,14.0,Tidak Anemia
+data/images/558_Hafidza_Rafifah.jpg,558,Hafidza Rafifah,11.4,Anemia Ringan
+data/images/559_Dea_Kusumawaty.jpg,559,Dea Kusumawaty,14.0,Tidak Anemia
+data/images/560_Naila_Zalianty.jpg,560,Naila Zalianty,12.2,Tidak Anemia
+data/images/561_Ririn_Dwi.jpg,561,Ririn Dwi ,14.1,Tidak Anemia
+data/images/562_April_Qisti.jpg,562,April Qisti,12.8,Tidak Anemia
+data/images/563_Aqila_Aprilia.jpg,563,Aqila Aprilia,12.1,Tidak Anemia
+data/images/564_Clara_Chantika.jpg,564,Clara Chantika,13.1,Tidak Anemia
+data/images/565_Heryiantin_Noviantri.jpg,565,Heryiantin Noviantri,12.8,Tidak Anemia
+data/images/566_Nabilla_Salsallaputri.jpg,566,Nabilla Salsallaputri,9.9,Anemia Sedang
+data/images/567_Nabila_Firdanisa.jpg,567,Nabila Firdanisa,13.4,Tidak Anemia
+data/images/568_Pepi_Sumantri.jpg,568,Pepi Sumantri,13.7,Tidak Anemia
+data/images/569_Deswita_Maharani.jpg,569,Deswita Maharani,11.1,Anemia Ringan
+data/images/570_Nindi_Violenchia.jpg,570,Nindi Violenchia,10.1,Anemia Sedang
+data/images/571_Rizki_Alviona.jpg,571,Rizki Alviona,12.0,Tidak Anemia
+data/images/572_Pitrah_Tul_Jannah.jpg,572,Pitrah Tul Jannah ,13.1,Tidak Anemia
+data/images/573_Syallu_Putri.jpg,573,Syallu Putri,14.2,Tidak Anemia
+data/images/574_Aulia_Putri.jpg,574,Aulia Putri,14.4,Tidak Anemia
+data/images/575_Azzahra_Campaca.jpg,575,Azzahra Campaca,12.5,Tidak Anemia
+data/images/576_Yayang_Amita.jpg,576,Yayang Amita,12.3,Tidak Anemia
+data/images/577_Rani_Aprijayanti.jpg,577,Rani Aprijayanti,12.1,Tidak Anemia
+data/images/578_Rahmadianti.jpg,578,Rahmadianti,11.1,Anemia Ringan
+data/images/579_Rani_Utami.jpg,579,Rani Utami,11.6,Anemia Ringan
+data/images/580_Dea_Juniati.jpg,580,Dea Juniati,12.4,Tidak Anemia
+data/images/581_Miranti_Kanintan.jpg,581,Miranti Kanintan,11.8,Anemia Ringan
+data/images/582_Melinda_Sari.jpg,582,Melinda Sari,12.1,Tidak Anemia
+data/images/583_Wuri.jpg,583,Wuri,10.8,Anemia Sedang
+data/images/584_Monera.jpg,584,Monera,12.0,Tidak Anemia
+data/images/585_Jazlin.jpg,585,Jazlin,14.9,Tidak Anemia
+data/images/586_Hatifah.jpg,586,Hatifah,12.0,Tidak Anemia
+data/images/587_Naila_S.jpg,587,Naila S,12.5,Tidak Anemia
+data/images/588_Dzakirah_R.jpg,588,Dzakirah R,12.5,Tidak Anemia
+data/images/589_Khanza_Abila.jpg,589,Khanza Abila,12.0,Tidak Anemia
+data/images/590_Afrimegia.jpg,590,Afrimegia,12.9,Tidak Anemia
+data/images/591_Carisa_Aura.jpg,591,Carisa Aura,14.2,Tidak Anemia
+data/images/592_Samiya.jpg,592,Samiya,13.6,Tidak Anemia
+data/images/593_Naila_Amara.jpg,593,Naila Amara,10.8,Anemia Sedang
+data/images/594_Nyayu_Shakila.jpg,594,Nyayu Shakila,11.9,Anemia Ringan
+data/images/595_Linggaring_Lituhayu.jpg,595,Linggaring Lituhayu,12.2,Tidak Anemia
+data/images/596_Shayyang_Deanda.jpg,596,Shayyang Deanda,11.9,Anemia Ringan
+data/images/597_Khanza.jpg,597,Khanza,10.8,Anemia Sedang
+data/images/598_Faeyza.jpg,598,Faeyza,13.6,Tidak Anemia
+data/images/599_Fildza.jpg,599,Fildza,11.9,Anemia Ringan
+data/images/600_Sevira.jpg,600,Sevira,15.9,Tidak Anemia
+data/images/601_Kinara.jpg,601,Kinara,11.2,Anemia Ringan
+data/images/602_Mei.jpg,602,Mei,13.6,Tidak Anemia
+data/images/603_Rindu.jpg,603,Rindu,13.6,Tidak Anemia
+data/images/604_Zelinda.jpg,604,Zelinda,12.5,Tidak Anemia
+data/images/605_Chintya.jpg,605,Chintya,12.9,Tidak Anemia
+data/images/606_Alika_Fiesya.jpg,606,Alika Fiesya,14.9,Tidak Anemia
+data/images/607_Aliyah_Azzahra.jpg,607,Aliyah Azzahra,10.8,Anemia Sedang
+data/images/608_Anita.jpg,608,Anita,11.5,Anemia Ringan
+data/images/609_Keisah.jpg,609,Keisah,11.2,Anemia Ringan
+data/images/610_Dzuniyyah.jpg,610,Dzuniyyah,13.9,Tidak Anemia
+data/images/611_Zahra_Hadi.jpg,611,Zahra Hadi,12.5,Tidak Anemia
+data/images/612_Asyifa_Naika.jpg,612,Asyifa Naika,12.2,Tidak Anemia
+data/images/613_Aliyyah.jpg,613,Aliyyah,12.5,Tidak Anemia
+data/images/614_Queenzy.jpg,614,Queenzy,10.5,Anemia Sedang
+data/images/615_Asyiffatu.jpg,615,Asyiffatu,14.6,Tidak Anemia
+data/images/618_Afika_Gasani.jpg,618,Afika Gasani,12.0,Tidak Anemia
+data/images/619_Adiva_Calista.jpg,619,Adiva Calista ,12.0,Tidak Anemia
+data/images/620_Aliyah_Larasati.jpg,620,Aliyah Larasati,12.0,Tidak Anemia
+data/images/621_Almairah.jpg,621,Almairah,12.0,Tidak Anemia
+data/images/622_Azzahra.jpg,622,Azzahra,12.0,Tidak Anemia
+data/images/623_Carista_Asifa.jpg,623,Carista Asifa,12.0,Tidak Anemia
+data/images/624_Felecia.jpg,624,Felecia,12.0,Tidak Anemia
+data/images/625_Haya_Nailah.jpg,625,Haya Nailah,12.0,Tidak Anemia
+data/images/626_Frianti.jpg,626,Frianti,12.0,Tidak Anemia
+data/images/627_Fitria_Suci_Lestari.jpg,627,Fitria Suci Lestari,12.0,Tidak Anemia
+data/images/628_Molifa.jpg,628,Molifa,12.0,Tidak Anemia
+data/images/629_Kalila.jpg,629,Kalila,12.0,Tidak Anemia
+data/images/630_Mysha.jpg,630,Mysha,12.0,Tidak Anemia
+data/images/631_Najwa.jpg,631,Najwa,12.0,Tidak Anemia
+data/images/632_Ramadhani.jpg,632,Ramadhani,12.0,Tidak Anemia
+data/images/633_Relin.jpg,633,Relin,12.0,Tidak Anemia
+data/images/634_Ayu_Veriansah.jpg,634,Ayu Veriansah,12.0,Tidak Anemia
+data/images/635_Ameera.jpg,635,Ameera,12.0,Tidak Anemia
+data/images/636_Hanna.jpg,636,Hanna,12.0,Tidak Anemia
+data/images/637_Neiva.jpg,637,Neiva,12.0,Tidak Anemia
+data/images/638_Angel_Neysah.jpg,638,Angel Neysah,12.0,Tidak Anemia
+data/images/639_Mahya_Alifa.jpg,639,Mahya Alifa,12.0,Tidak Anemia
+data/images/640_Febry.jpg,640,Febry,12.0,Tidak Anemia
+data/images/641_Asha.jpg,641,Asha,12.0,Tidak Anemia
+data/images/642_Kinara.jpg,642,Kinara,12.0,Tidak Anemia
+data/images/643_Icha.jpg,643,Icha,12.0,Tidak Anemia
+data/images/644_Felisia_Amora.jpg,644,Felisia Amora,12.0,Tidak Anemia
+data/images/645_Nabila_Hasna.jpg,645,Nabila Hasna,12.0,Tidak Anemia
+data/images/646_Anggi_Nurjihan.jpg,646,Anggi Nurjihan,12.0,Tidak Anemia
+data/images/647_Abell.jpg,647,Abell,12.0,Tidak Anemia
+data/images/648_Airin.jpg,648,Airin,12.0,Tidak Anemia
+data/images/649_Nadya_Salshabilla.jpg,649,Nadya Salshabilla,12.0,Tidak Anemia
+data/images/650_Indah_Tria_Azzahra.jpg,650,Indah Tria Azzahra,12.0,Tidak Anemia
+data/images/651_Femita.jpg,651,Femita,12.0,Tidak Anemia
+data/images/652_Nadiva_Azzahra.jpg,652,Nadiva Azzahra,12.0,Tidak Anemia
+data/images/653_Alifa_Nusyamita.jpg,653,Alifa Nusyamita,12.0,Tidak Anemia
+data/images/654_Devia_Alqhotimah.jpg,654,Devia Alqhotimah,12.0,Tidak Anemia
+data/images/655_Farah.jpg,655,Farah,12.0,Tidak Anemia
+data/images/656_Frinita.jpg,656,Frinita,12.0,Tidak Anemia
+data/images/657_Aurel.jpg,657,Aurel,12.0,Tidak Anemia
+data/images/658_Intha_Zain.jpg,658,Intha Zain,12.0,Tidak Anemia
+data/images/659_Danisah.jpg,659,Danisah,12.0,Tidak Anemia
+data/images/660_Keyla_Gunarin.jpg,660,Keyla Gunarin,12.0,Tidak Anemia
+data/images/661_Maysah.jpg,661,Maysah,12.0,Tidak Anemia
+data/images/662_Raysa_Aeri.jpg,662,Raysa Aeri,12.0,Tidak Anemia
+data/images/663_Najwa_Nala.jpg,663,Najwa Nala,12.0,Tidak Anemia
+data/images/664_Wibilah.jpg,664,Wibilah,12.0,Tidak Anemia
+data/images/665_Sekar_Lorencya.jpg,665,Sekar Lorencya,12.0,Tidak Anemia
+data/images/666_Zahra.jpg,666,Zahra,12.0,Tidak Anemia
+data/images/667_Latisyah.jpg,667,Latisyah,12.0,Tidak Anemia
+data/images/668_Franda.jpg,668,Franda,12.0,Tidak Anemia
+data/images/669_Shafiyah.jpg,669,Shafiyah,12.0,Tidak Anemia
+data/images/670_Gisel.jpg,670,Gisel,12.0,Tidak Anemia
+data/images/671_Adzra.jpg,671,Adzra,12.0,Tidak Anemia
+data/images/672_Annisa_Ransdanti.jpg,672,Annisa Ransdanti,12.0,Tidak Anemia
+data/images/673_Azra.jpg,673,Azra,12.0,Tidak Anemia
+data/images/674_Marsela_Naufika.jpg,674,Marsela Naufika,12.0,Tidak Anemia
+data/images/675_Cantika_Khairin.jpg,675,Cantika Khairin,12.0,Tidak Anemia
+data/images/676_Cantika_Nara.jpg,676,Cantika Nara,12.0,Tidak Anemia
+data/images/677_Delvina.jpg,677,Delvina,12.0,Tidak Anemia
+data/images/678_Ghaniyah.jpg,678,Ghaniyah,12.0,Tidak Anemia
+data/images/679_Fiolorenza.jpg,679,Fiolorenza,12.0,Tidak Anemia
+data/images/680_Agnes.jpg,680,Agnes ,10.7,Anemia Sedang
+data/images/681_Ciclara.jpg,681,Ciclara,11.6,Anemia Ringan
+data/images/682_Aisyah.jpg,682,Aisyah,9.9,Anemia Sedang
+data/images/683_Ririn.jpg,683,Ririn,9.2,Anemia Sedang
+data/images/684_Aqila.jpg,684,Aqila ,12.2,Tidak Anemia
+data/images/685_Dwi_Ingga.jpg,685,Dwi Ingga,11.0,Anemia Ringan
+data/images/686_Reza_Zalwa.jpg,686,Reza Zalwa,12.0,Tidak Anemia
+data/images/687_Dela.jpg,687,Dela,11.0,Anemia Ringan
+data/images/688_Veli.jpg,688,Veli,13.3,Tidak Anemia
+data/images/689_Dea.jpg,689,Dea,12.9,Tidak Anemia
+data/images/690_Meisya.jpg,690,Meisya,10.0,Anemia Sedang
+data/images/691_Azzara.jpg,691,Azzara,12.6,Tidak Anemia
+data/images/692_Azka_Azzahra.jpg,692,Azka Azzahra,10.0,Anemia Sedang
+data/images/693_Nuhaa.jpg,693,Nuhaa,11.0,Anemia Ringan
+data/images/694_Cindi.jpg,694,Cindi,10.5,Anemia Sedang
+data/images/695_Sintia.jpg,695,Sintia ,10.2,Anemia Sedang
+data/images/696_Della.jpg,696,Della,9.0,Anemia Sedang
+data/images/697_Melanda.jpg,697,Melanda,12.1,Tidak Anemia
+data/images/698_Intan.jpg,698,Intan,8.4,Anemia Sedang
+data/images/699_Nabila_Kurnia.jpg,699,Nabila Kurnia,8.3,Anemia Sedang
+data/images/700_Nayla.jpg,700,Nayla,10.6,Anemia Sedang
+data/images/701_Syifa.jpg,701,Syifa,15.1,Tidak Anemia
+data/images/702_Delfia.jpg,702,Delfia,10.6,Anemia Sedang
+data/images/703_Amanda.jpg,703,Amanda,10.4,Anemia Sedang
+data/images/704_Syifa_Khumairah.jpg,704,Syifa Khumairah,9.9,Anemia Sedang
+data/images/705_Wulan.jpg,705,Wulan,11.1,Anemia Ringan
+data/images/706_Prisilia.jpg,706,Prisilia,10.6,Anemia Sedang
+data/images/707_Nabila_Lioni.jpg,707,Nabila Lioni,11.1,Anemia Ringan
+data/images/708_Rismawati.jpg,708,Rismawati,11.8,Anemia Ringan
+data/images/709_Diosi.jpg,709,Diosi,10.0,Anemia Sedang
+data/images/710_Keyra.jpg,710,Keyra,9.1,Anemia Sedang
+data/images/711_Nadia.jpg,711,Nadia,10.6,Anemia Sedang
+data/images/712_Refa.jpg,712,Refa ,9.8,Anemia Sedang
+data/images/713_Sari.jpg,713,Sari,13.6,Tidak Anemia
+data/images/714_Zahira.jpg,714,Zahira,11.1,Anemia Ringan
+data/images/715_Zulfa.jpg,715,Zulfa,9.2,Anemia Sedang
+data/images/716_Aviola.jpg,716,Aviola,12.4,Tidak Anemia
+data/images/717_Anggel.jpg,717,Anggel,11.5,Anemia Ringan
+data/images/718_Aurel.jpg,718,Aurel,11.8,Anemia Ringan
+data/images/719_Maimunah.jpg,719,Maimunah,14.0,Tidak Anemia
+data/images/720_Rahimah.jpg,720,Rahimah,13.9,Tidak Anemia
+data/images/721_Anggun.jpg,721,Anggun,10.2,Anemia Sedang
+data/images/722_Vina.jpg,722,Vina,12.0,Tidak Anemia
+data/images/723_Siska.jpg,723,Siska,10.8,Anemia Sedang
+data/images/724_Mesa.jpg,724,Mesa,12.9,Tidak Anemia
+data/images/725_Fahira.jpg,725,Fahira ,12.2,Tidak Anemia
+data/images/726_Nayla.jpg,726,Nayla,10.5,Anemia Sedang
+data/images/727_Aqila.jpg,727,Aqila,11.7,Anemia Ringan
+data/images/728_Zazkia.jpg,728,Zazkia,13.1,Tidak Anemia
+data/images/729_Aprilia.jpg,729,Aprilia,13.1,Tidak Anemia
+data/images/730_Andin.jpg,730,Andin,10.0,Anemia Sedang
+data/images/731_Tasya.jpg,731,Tasya,12.2,Tidak Anemia
+data/images/732_Caca.jpg,732,Caca,12.9,Tidak Anemia
+data/images/733_Manda.jpg,733,Manda,11.9,Anemia Ringan
+data/images/734_Septia.jpg,734,Septia,12.1,Tidak Anemia
+data/images/735_Resa.jpg,735,Resa,11.5,Anemia Ringan
+data/images/736_Zahra.jpg,736,Zahra,12.1,Tidak Anemia
+data/images/737_Winda.jpg,737,Winda,13.2,Tidak Anemia
+data/images/738_Gita.jpg,738,Gita,14.8,Tidak Anemia
+data/images/739_Aura.jpg,739,Aura,13.0,Tidak Anemia
+data/images/740_Meza.jpg,740,Meza,12.3,Tidak Anemia
+data/images/741_Cinni.jpg,741,Cinni,13.3,Tidak Anemia
+data/images/742_Nayla.jpg,742,Nayla,12.5,Tidak Anemia
+data/images/743_Aqilla.jpg,743,Aqilla,13.9,Tidak Anemia
+data/images/744_Rasya.jpg,744,Rasya,14.3,Tidak Anemia
+data/images/745_Aisyah.jpg,745,Aisyah,11.8,Anemia Ringan
+data/images/746_Vivi.jpg,746,Vivi,13.8,Tidak Anemia
+data/images/747_Zalfa.jpg,747,Zalfa,11.8,Anemia Ringan
+data/images/748_Melisa.jpg,748,Melisa,11.8,Anemia Ringan
+data/images/749_Arina.jpg,749,Arina,12.3,Tidak Anemia
+data/images/750_Hafiza.jpg,750,Hafiza,10.2,Anemia Sedang
+data/images/751_Anisa.jpg,751,Anisa,13.4,Tidak Anemia
+data/images/752_Keyla.jpg,752,Keyla ,12.1,Tidak Anemia
+data/images/753_Meysa.jpg,753,Meysa,12.2,Tidak Anemia
+data/images/754_Jesika.jpg,754,Jesika,13.0,Tidak Anemia
+data/images/755_Sintia.jpg,755,Sintia ,12.4,Tidak Anemia
+data/images/756_Fatia.jpg,756,Fatia,14.0,Tidak Anemia
+data/images/757_Sri_Banun.jpg,757,Sri Banun,14.3,Tidak Anemia
+data/images/758_Chelsi_Tri.jpg,758,Chelsi Tri,12.4,Tidak Anemia
+data/images/759_Niki_Kartika.jpg,759,Niki Kartika,12.7,Tidak Anemia
+data/images/760_Winda.jpg,760,Winda,11.6,Anemia Ringan
+data/images/761_Ayani.jpg,761,Ayani,8.0,Anemia Sedang
+data/images/762_Celsi_Anugrah.jpg,762,Celsi Anugrah,12.2,Tidak Anemia
+data/images/763_Farah.jpg,763,Farah,12.5,Tidak Anemia
+data/images/764_Naura.jpg,764,Naura,12.5,Tidak Anemia
+data/images/765_Anatasya.jpg,765,Anatasya,12.5,Tidak Anemia
+data/images/766_Aurel.jpg,766,Aurel,13.0,Tidak Anemia
+data/images/767_Alincia.jpg,767,Alincia,12.5,Tidak Anemia
+data/images/768_Gadiza.jpg,768,Gadiza,13.2,Tidak Anemia
+data/images/769_Halwa.jpg,769,Halwa,11.9,Anemia Ringan
+data/images/770_Madia.jpg,770,Madia,10.5,Anemia Sedang
+data/images/771_Qisha.jpg,771,Qisha,11.2,Anemia Ringan
+data/images/772_Queena.jpg,772,Queena,1.2,Anemia Berat
+data/images/773_Salsabila.jpg,773,Salsabila,15.5,Tidak Anemia
+data/images/774_Viola.jpg,774,Viola,11.5,Anemia Ringan
+data/images/775_Zafira.jpg,775,Zafira,12.5,Tidak Anemia
+data/images/776_Syahanny.jpg,776,Syahanny,11.9,Anemia Ringan
+data/images/777_fiorensa.jpg,777,fiorensa,13.9,Tidak Anemia
+data/images/778_athira.jpg,778,athira,9.8,Anemia Sedang
+data/images/779_tiara.jpg,779,tiara,13.2,Tidak Anemia
+data/images/780_lathifia.jpg,780,lathifia,11.5,Anemia Ringan
+data/images/781_bunga.jpg,781,bunga,16.6,Tidak Anemia
+data/images/782_amy.jpg,782,amy,10.8,Anemia Sedang
+data/images/783_reisya.jpg,783,reisya,12.2,Tidak Anemia
+data/images/784_zahra.jpg,784,zahra,12.9,Tidak Anemia
+data/images/785_anggra.jpg,785,anggra,15.3,Tidak Anemia
+data/images/786_keken.jpg,786,keken,12.2,Tidak Anemia
+data/images/787_naura.jpg,787,naura,15.6,Tidak Anemia
+data/images/788_mayhira.jpg,788,mayhira,11.9,Anemia Ringan
+data/images/789_sestra.jpg,789,sestra,10.5,Anemia Sedang
+data/images/790_suci.jpg,790,suci,13.2,Tidak Anemia
+data/images/791_amalia.jpg,791,amalia,14.0,Tidak Anemia
+data/images/792_zavah.jpg,792,zavah,13.9,Tidak Anemia
+data/images/793_naura_aqilah.jpg,793,naura aqilah,10.2,Anemia Sedang
+data/images/794_Qyara.jpg,794,Qyara,13.9,Tidak Anemia
+data/images/795_cinta.jpg,795,cinta,13.9,Tidak Anemia
+data/images/796_Naura_assyta.jpg,796,Naura assyta,14.6,Tidak Anemia
+data/images/797_Keylla.jpg,797,Keylla,10.8,Anemia Sedang
+data/images/798_atika.jpg,798,atika,12.9,Tidak Anemia
+data/images/799_bilqis.jpg,799,bilqis,10.2,Anemia Sedang
+data/images/800_aulia.jpg,800,aulia,12.5,Tidak Anemia
+data/images/801_syahira.jpg,801,syahira,14.6,Tidak Anemia
+data/images/802_azara.jpg,802,azara,13.9,Tidak Anemia
+data/images/803_amelia.jpg,803,amelia,13.9,Tidak Anemia
+data/images/804_nadia.jpg,804,nadia,10.8,Anemia Sedang
+data/images/805_shinta.jpg,805,shinta,14.2,Tidak Anemia
+data/images/806_winda.jpg,806,winda,12.9,Tidak Anemia
+data/images/807_faiza.jpg,807,faiza,10.5,Anemia Sedang
+data/images/808_karen.jpg,808,karen,14.2,Tidak Anemia
+data/images/809_ayla.jpg,809,ayla,14.6,Tidak Anemia
+data/images/810_faqhira.jpg,810,faqhira,12.9,Tidak Anemia
+data/images/811_sabrina.jpg,811,sabrina,15.3,Tidak Anemia
+data/images/812_Diva.jpg,812,Diva,13.6,Tidak Anemia
+data/images/813_asyqiah.jpg,813,asyqiah,14.9,Tidak Anemia
+data/images/814_Fahira.jpg,814,Fahira ,13.9,Tidak Anemia
+data/images/815_anisyah.jpg,815,anisyah,13.9,Tidak Anemia
+data/images/816_asya.jpg,816,asya,13.2,Tidak Anemia
+data/images/817_aisha.jpg,817,aisha,14.9,Tidak Anemia
+data/images/818_hafizhah.jpg,818,hafizhah,9.8,Anemia Sedang
+data/images/819_alika.jpg,819,alika,12.2,Tidak Anemia
+data/images/820_videa.jpg,820,videa,9.5,Anemia Sedang
+data/images/821_chikita.jpg,821,chikita,13.6,Tidak Anemia
+data/images/822_yosi.jpg,822,yosi,8.1,Anemia Sedang
+data/images/823_Yumna.jpg,823,Yumna,8.0,Anemia Sedang
+data/images/824_Callysta.jpg,824,Callysta,8.7,Anemia Sedang
+data/images/825_shanum.jpg,825,shanum,8.0,Anemia Sedang
+data/images/826_Zhafirah.jpg,826,Zhafirah,11.5,Anemia Ringan
+data/images/827_Azra.jpg,827,Azra,8.7,Anemia Sedang
+data/images/828_Nadhira.jpg,828,Nadhira,8.5,Anemia Sedang
+data/images/829_Alysa.jpg,829,Alysa,8.4,Anemia Sedang
+data/images/830_Salsabila.jpg,830,Salsabila,11.5,Anemia Ringan
+data/images/831_Azzalia.jpg,831,Azzalia,7.5,Anemia Berat
+data/images/832_Amanda.jpg,832,Amanda,8.3,Anemia Sedang
+data/images/833_Aila.jpg,833,Aila ,9.3,Anemia Sedang
+data/images/834_Zahra.jpg,834,Zahra,8.7,Anemia Sedang
+data/images/835_Talitha.jpg,835,Talitha,8.4,Anemia Sedang
+data/images/836_Farannisa.jpg,836,Farannisa,9.5,Anemia Sedang
+data/images/837_Fathya.jpg,837,Fathya,9.7,Anemia Sedang
+data/images/838_Jovana.jpg,838,Jovana,10.0,Anemia Sedang
+data/images/839_Syifa.jpg,839,Syifa,8.2,Anemia Sedang
+data/images/840_Gisel.jpg,840,Gisel,8.0,Anemia Sedang
+data/images/841_Chiellini.jpg,841,Chiellini,8.4,Anemia Sedang
+data/images/842_Aurora.jpg,842,Aurora,9.1,Anemia Sedang
+data/images/843_Khanza.jpg,843,Khanza,12.3,Tidak Anemia
+data/images/844_Atiqa.jpg,844,Atiqa,8.0,Anemia Sedang
+data/images/845_Kharoma.jpg,845,Kharoma,7.6,Anemia Berat
+data/images/846_Azzhara.jpg,846,Azzhara,10.0,Anemia Sedang
+data/images/847_Masayu.jpg,847,Masayu,10.3,Anemia Sedang
+data/images/848_Rachelzia.jpg,848,Rachelzia,8.7,Anemia Sedang
+data/images/849_Alya.jpg,849,Alya,7.6,Anemia Berat
+data/images/850_Arvanya.jpg,850,Arvanya,9.4,Anemia Sedang
+data/images/851_Afifah.jpg,851,Afifah,7.4,Anemia Berat
+data/images/852_Tifanny.jpg,852,Tifanny,7.2,Anemia Berat
+data/images/853_Anindya.jpg,853,Anindya,8.4,Anemia Sedang
+data/images/854_Cahaya.jpg,854,Cahaya,8.0,Anemia Sedang
+data/images/855_Sabirah.jpg,855,Sabirah,12.2,Tidak Anemia
+data/images/856_syahqilla.jpg,856,syahqilla,10.5,Anemia Sedang
+data/images/857_Calista.jpg,857,Calista,12.9,Tidak Anemia
+data/images/858_Nabilah.jpg,858,Nabilah,8.8,Anemia Sedang
+data/images/859_Nayla.jpg,859,Nayla,13.2,Tidak Anemia
+data/images/860_keisya.jpg,860,keisya,10.5,Anemia Sedang
+data/images/861_shofie.jpg,861,shofie,12.9,Tidak Anemia
+data/images/862_aqila.jpg,862,aqila,10.8,Anemia Sedang
+data/images/863_Mariana.jpg,863,Mariana,13.9,Tidak Anemia
+data/images/864_azizah.jpg,864,azizah,10.8,Anemia Sedang
+data/images/865_kikandrya.jpg,865,kikandrya,9.8,Anemia Sedang
+data/images/866_rahmadini.jpg,866,rahmadini,13.6,Tidak Anemia
+data/images/867_khanza.jpg,867,khanza,13.6,Tidak Anemia
+data/images/868_nadila.jpg,868,nadila,14.9,Tidak Anemia
+data/images/869_athaya.jpg,869,athaya,11.5,Anemia Ringan
+data/images/870_Aisha.jpg,870,Aisha,13.9,Tidak Anemia
+data/images/871_almazhia.jpg,871,almazhia,11.2,Anemia Ringan
+data/images/872_apika.jpg,872,apika,12.2,Tidak Anemia
+data/images/873_aqilah.jpg,873,aqilah,13.2,Tidak Anemia
+data/images/874_asyilla.jpg,874,asyilla,11.5,Anemia Ringan
+data/images/875_atiqa.jpg,875,atiqa,13.9,Tidak Anemia
+data/images/876_elsa.jpg,876,elsa,14.2,Tidak Anemia
+data/images/877_keyzha.jpg,877,keyzha,14.2,Tidak Anemia
+data/images/878_nadya.jpg,878,nadya,13.9,Tidak Anemia
+data/images/879_nayla.jpg,879,nayla,11.9,Anemia Ringan
+data/images/880_raysa.jpg,880,raysa,7.1,Anemia Berat
+data/images/881_resti.jpg,881,resti,10.2,Anemia Sedang
+data/images/882_zafira.jpg,882,zafira,12.9,Tidak Anemia
+data/images/883_syifa.jpg,883,syifa,13.9,Tidak Anemia
+data/images/884_Adifa_Rafa.jpg,884,Adifa Rafa,12.5,Tidak Anemia
+data/images/885_⁠Anindita_Keysha.jpg,885,⁠Anindita Keysha,13.2,Tidak Anemia
+data/images/886_⁠Yukiyama_Nisa.jpg,886,⁠Yukiyama Nisa,13.5,Tidak Anemia
+data/images/887_⁠Yuratul_Iani.jpg,887,⁠Yuratul Iani,12.2,Tidak Anemia
+data/images/888_⁠Angellita_Putri.jpg,888,⁠Angellita Putri,12.0,Tidak Anemia
+data/images/889_⁠Dzakiyya_Talita.jpg,889,⁠Dzakiyya Talita,14.9,Tidak Anemia
+data/images/890_⁠Asyifah_Ayu.jpg,890,⁠Asyifah Ayu,15.3,Tidak Anemia
+data/images/891_⁠Sayyidah_Matina.jpg,891,⁠Sayyidah Matina,14.2,Tidak Anemia
+data/images/892_⁠Alleira_Andity.jpg,892,⁠Alleira Andity,13.6,Tidak Anemia
+data/images/893_⁠Alquita_Kayana.jpg,893,⁠Alquita Kayana,13.9,Tidak Anemia
+data/images/894_⁠Humaira_Izatunisa.jpg,894,⁠Humaira Izatunisa,14.2,Tidak Anemia
+data/images/895_⁠Dzakira_Esta.jpg,895,⁠Dzakira Esta,13.9,Tidak Anemia
+data/images/896_⁠Aqila_Fauziah.jpg,896,⁠Aqila Fauziah,13.2,Tidak Anemia
+data/images/897_⁠Zizah_Aqilah.jpg,897,⁠Zizah Aqilah,11.9,Anemia Ringan
+data/images/898_⁠Raysha_Quena.jpg,898,⁠Raysha Quena,14.6,Tidak Anemia
+data/images/899_⁠Calista_Lutfia.jpg,899,⁠Calista Lutfia,11.5,Anemia Ringan
+data/images/900_⁠Keyra_Arterina.jpg,900,⁠Keyra Arterina,13.9,Tidak Anemia
+data/images/901_⁠Khanza_kharumnisa.jpg,901,⁠Khanza kharumnisa,13.9,Tidak Anemia
+data/images/902_⁠Cassandra_Aska.jpg,902,⁠Cassandra Aska,13.6,Tidak Anemia
+data/images/903_⁠Nadira_Rifqah.jpg,903,⁠Nadira Rifqah,13.6,Tidak Anemia
+data/images/904_⁠Syakira_Naifa.jpg,904,⁠Syakira Naifa,13.6,Tidak Anemia
+data/images/905_⁠Syakira_Alya.jpg,905,⁠Syakira Alya,11.5,Anemia Ringan
+data/images/906_⁠Saisa_Gunawan.jpg,906,⁠Saisa Gunawan,14.6,Tidak Anemia
+data/images/907_⁠Dhita_Sella.jpg,907,⁠Dhita Sella,14.2,Tidak Anemia
+data/images/908_⁠Dilfa_Aqila.jpg,908,⁠Dilfa Aqila,12.9,Tidak Anemia
+data/images/909_⁠Istiqoman.jpg,909,⁠Istiqoman,12.2,Tidak Anemia
+data/images/910_⁠Khairunnisa.jpg,910,⁠Khairunnisa,16.3,Tidak Anemia
+data/images/911_⁠Sahzia_Saldabila.jpg,911,⁠Sahzia Saldabila,12.2,Tidak Anemia
+data/images/912_⁠Azahra_Evita.jpg,912,⁠Azahra Evita,13.2,Tidak Anemia
+data/images/913_⁠Dinda_Aligia.jpg,913,⁠Dinda Aligia,13.9,Tidak Anemia
+data/images/914_⁠Alimatil_Zakiyah.jpg,914,⁠Alimatil Zakiyah,14.9,Tidak Anemia
+data/images/915_⁠Nadhifa_Aqila.jpg,915,⁠Nadhifa Aqila,10.5,Anemia Sedang
+data/images/916_⁠Sabrina_Taqiah.jpg,916,⁠Sabrina Taqiah,11.9,Anemia Ringan
+data/images/917_⁠Rayhana_Putri.jpg,917,⁠Rayhana Putri,13.6,Tidak Anemia
+data/images/918_⁠Kirana_Hadinunnisa.jpg,918,⁠Kirana Hadinunnisa,13.6,Tidak Anemia
+data/images/919_⁠Anjanu_Harnum.jpg,919,⁠Anjanu Harnum,11.9,Anemia Ringan
+data/images/920_⁠Arani_Safa.jpg,920,⁠Arani Safa,11.9,Anemia Ringan
+data/images/921_⁠Mikaila_Nur.jpg,921,⁠Mikaila Nur,13.2,Tidak Anemia
+data/images/922_⁠Safna_zafiratul.jpg,922,⁠Safna zafiratul,12.2,Tidak Anemia
+data/images/923_⁠Raeesah_Sahla.jpg,923,⁠Raeesah Sahla,11.5,Anemia Ringan
+data/images/924_⁠Sahira_Khirani.jpg,924,⁠Sahira Khirani,14.9,Tidak Anemia
+data/images/925_⁠Marita_Ziana.jpg,925,⁠Marita Ziana,13.9,Tidak Anemia
+data/images/926_⁠Khalisha_Putri.jpg,926,⁠Khalisha Putri,11.9,Anemia Ringan
+data/images/927_⁠Allea_Putri.jpg,927,⁠Allea Putri,10.8,Anemia Sedang
+data/images/928_Aqila_Fayyanza.jpg,928,Aqila Fayyanza,12.0,Tidak Anemia
+data/images/929_Nasywa_Sabrina.jpg,929,Nasywa Sabrina,12.0,Tidak Anemia
+data/images/930_Nayyara_Rahmi_Ashilah.jpg,930,Nayyara Rahmi Ashilah,12.0,Tidak Anemia
+data/images/931_Shidqia_Almaira.jpg,931,Shidqia Almaira,12.0,Tidak Anemia
+data/images/932_Dzakira_Adeeva.jpg,932,Dzakira Adeeva,12.0,Tidak Anemia
+data/images/933_Qonita_Najwa.jpg,933,Qonita Najwa,12.0,Tidak Anemia
+data/images/934_Najah_Ferasya.jpg,934,Najah Ferasya,12.0,Tidak Anemia
+data/images/935_Daffa_Naura_Salsabila.jpg,935,Daffa Naura Salsabila,12.0,Tidak Anemia
+data/images/936_Fahizah_Alfadhia.jpg,936,Fahizah Alfadhia,12.0,Tidak Anemia
+data/images/937_Keyla_Bryna.jpg,937,Keyla Bryna,12.0,Tidak Anemia
+data/images/938_Fadhilatun_Nisa.jpg,938,Fadhilatun Nisa,12.0,Tidak Anemia
+data/images/939_Yhara_Aqila.jpg,939,Yhara Aqila,12.0,Tidak Anemia
+data/images/940_Diar_Hayu.jpg,940,Diar Hayu,12.0,Tidak Anemia
+data/images/941_Aqeela_Naura.jpg,941,Aqeela Naura,12.0,Tidak Anemia
+data/images/942_Nayyara_Anindya.jpg,942,Nayyara Anindya,12.0,Tidak Anemia
+data/images/943_Nabila_Khairunnisa.jpg,943,Nabila Khairunnisa,12.0,Tidak Anemia
+data/images/944_Zahrah_Syafiqa.jpg,944,Zahrah Syafiqa,12.0,Tidak Anemia
+data/images/945_Khalisha.jpg,945,Khalisha,12.0,Tidak Anemia
+data/images/946_Grania.jpg,946,Grania,12.0,Tidak Anemia
+data/images/947_Desi.jpg,947,Desi,12.0,Tidak Anemia
+data/images/948_Fiolisya_Nadira.jpg,948,Fiolisya Nadira,12.0,Tidak Anemia
+data/images/949_Afanin_Naura.jpg,949,Afanin Naura,12.0,Tidak Anemia
+data/images/950_Nadhira_Alika.jpg,950,Nadhira Alika,12.0,Tidak Anemia
+data/images/951_Marsha_Salsabila.jpg,951,Marsha Salsabila,12.0,Tidak Anemia
+data/images/952_Kirana_Adania.jpg,952,Kirana Adania,12.0,Tidak Anemia
+data/images/953_Kezia_Azzahra.jpg,953,Kezia Azzahra,12.0,Tidak Anemia
+data/images/954_Aisyah_Fathina.jpg,954,Aisyah Fathina,12.0,Tidak Anemia
+data/images/955_Adiba_Khanza.jpg,955,Adiba Khanza,12.0,Tidak Anemia
+data/images/956_Shavir_Nuha_Kaysa.jpg,956,Shavir Nuha Kaysa,12.0,Tidak Anemia
+data/images/957_Nayla_Raudha.jpg,957,Nayla Raudha,12.0,Tidak Anemia
+data/images/958_Raffa_Aulia.jpg,958,Raffa Aulia,12.0,Tidak Anemia
+data/images/959_Raesya_Mutia.jpg,959,Raesya Mutia,12.0,Tidak Anemia
+data/images/960_Aliya_Aziza.jpg,960,Aliya Aziza,12.0,Tidak Anemia
+data/images/961_Nabilah_Azzalia.jpg,961,Nabilah Azzalia,12.0,Tidak Anemia
+data/images/962_Zakiyah_Raisa.jpg,962,Zakiyah Raisa,12.0,Tidak Anemia
+data/images/963_Nahla_Khairunnisa.jpg,963,Nahla Khairunnisa,12.0,Tidak Anemia
+data/images/9644_Nur_Ramadhani.jpg,9644,Nur Ramadhani,12.0,Tidak Anemia
+data/images/965_Naura_Aqila_Azzahra.jpg,965,Naura Aqila Azzahra,12.0,Tidak Anemia
+data/images/966_Raisa_Iftinah.jpg,966,Raisa Iftinah,12.0,Tidak Anemia
+data/images/967_Faizah_Nayla.jpg,967,Faizah Nayla,12.0,Tidak Anemia
+data/images/968_Kirana_Amalia.jpg,968,Kirana Amalia,12.0,Tidak Anemia
+data/images/969_Shafira_Agelica.jpg,969,Shafira Agelica,12.0,Tidak Anemia
+data/images/970_Yasmine_Rumaisha.jpg,970,Yasmine Rumaisha,12.0,Tidak Anemia
+data/images/971_Atikah_Izzatu.jpg,971,Atikah Izzatu,12.0,Tidak Anemia
+data/images/972_Aisyah.jpg,972,Aisyah,6.1,Anemia Berat
+data/images/973_Alicia.jpg,973,Alicia,8.1,Anemia Sedang
+data/images/974_Alya.jpg,974,Alya,7.9,Anemia Berat
+data/images/975_Andara.jpg,975,Andara,6.8,Anemia Berat
+data/images/976_Arlin.jpg,976,Arlin,12.9,Tidak Anemia
+data/images/977_Azira.jpg,977,Azira,12.0,Tidak Anemia
+data/images/978_Christie.jpg,978,Christie,10.5,Anemia Sedang
+data/images/979_Hafiqa.jpg,979,Hafiqa,13.9,Tidak Anemia
+data/images/980_Maren.jpg,980,Maren,7.5,Anemia Berat
+data/images/981_Meilan.jpg,981,Meilan,9.4,Anemia Sedang
+data/images/982_Maura.jpg,982,Maura,7.8,Anemia Berat
+data/images/983_Olivia.jpg,983,Olivia,7.5,Anemia Berat
+data/images/984_Queen.jpg,984,Queen,12.9,Tidak Anemia
+data/images/985_Raisya.jpg,985,Raisya,10.0,Anemia Sedang
+data/images/986_Teriza.jpg,986,Teriza,8.9,Anemia Sedang
+data/images/987_Yasmin.jpg,987,Yasmin,9.1,Anemia Sedang
+data/images/988_Adelia.jpg,988,Adelia,7.9,Anemia Berat
+data/images/989_Aqilah.jpg,989,Aqilah,15.3,Tidak Anemia
+data/images/990_Azka.jpg,990,Azka,13.2,Tidak Anemia
+data/images/991_Dhea.jpg,991,Dhea,14.2,Tidak Anemia
+data/images/992_Fayzia.jpg,992,Fayzia,12.5,Tidak Anemia
+data/images/993_Halona.jpg,993,Halona,11.2,Anemia Ringan
+data/images/994_Hani.jpg,994,Hani,10.8,Anemia Sedang
+data/images/995_Jocellyn.jpg,995,Jocellyn,13.6,Tidak Anemia
+data/images/996_Kalyla.jpg,996,Kalyla,7.4,Anemia Berat
+data/images/997_Nadhifa.jpg,997,Nadhifa,14.9,Tidak Anemia
+data/images/998_Nadhira.jpg,998,Nadhira,15.6,Tidak Anemia
+data/images/999_Naila.jpg,999,Naila,13.2,Tidak Anemia
+data/images/1000_Quinsha.jpg,1000,Quinsha,11.2,Anemia Ringan
+data/images/1001_Sachi.jpg,1001,Sachi,12.9,Tidak Anemia
+data/images/1002_Shazia.jpg,1002,Shazia,9.2,Anemia Sedang
+data/images/1003_Zahira.jpg,1003,Zahira,7.4,Anemia Berat
+data/images/1004_Khaironnisa.jpg,1004,Khaironnisa,11.2,Anemia Ringan
+data/images/1005_Oryza.jpg,1005,Oryza,15.5,Tidak Anemia
+data/images/1006_Reskya.jpg,1006,Reskya,14.2,Tidak Anemia
+data/images/1007_Indah.jpg,1007,Indah,13.2,Tidak Anemia
+data/images/1008_Seona.jpg,1008,Seona,10.5,Anemia Sedang
+data/images/1009_Afdia.jpg,1009,Afdia,13.9,Tidak Anemia
+data/images/1010_Aurel.jpg,1010,Aurel,13.9,Tidak Anemia
+data/images/1011_Kaila.jpg,1011,Kaila,14.2,Tidak Anemia
+data/images/1012_Intan.jpg,1012,Intan,13.6,Tidak Anemia
+data/images/1013_Saskia.jpg,1013,Saskia,13.6,Tidak Anemia
+data/images/1014_Hani.jpg,1014,Hani,14.6,Tidak Anemia
+data/images/1015_Zafirah.jpg,1015,Zafirah,14.2,Tidak Anemia
+data/images/1016_Naura.jpg,1016,Naura ,13.9,Tidak Anemia
+data/images/1017_Nur_Aini.jpg,1017, Nur Aini,12.2,Tidak Anemia
+data/images/1018_Dedek_rana_aulia.jpg,1018,Dedek rana aulia,14.6,Tidak Anemia
+data/images/1019_Geysa_safa.jpg,1019,Geysa safa,10.8,Anemia Sedang
+data/images/1020_Sismaharani_putri.jpg,1020,Sismaharani putri,8.8,Anemia Sedang
+data/images/1021_Suci_safitri.jpg,1021,Suci safitri,12.2,Tidak Anemia
+data/images/1022_Alesia_sifa.jpg,1022,Alesia sifa,11.5,Anemia Ringan
+data/images/1023_Erlin_Dwi.jpg,1023,Erlin Dwi,10.5,Anemia Sedang
+data/images/1024_Maeyzua_putri.jpg,1024,Maeyzua putri,13.9,Tidak Anemia
+data/images/1025_Laura_isabella.jpg,1025,Laura isabella,12.2,Tidak Anemia
+data/images/1026_Sindy_sastia.jpg,1026,Sindy sastia,12.5,Tidak Anemia
+data/images/1027_Inda_junitah.jpg,1027,Inda junitah,13.6,Tidak Anemia
+data/images/1028_Yulianti.jpg,1028,Yulianti,13.9,Tidak Anemia
+data/images/1029_Indah_permata_sari.jpg,1029,Indah permata sari,9.5,Anemia Sedang
+data/images/1030_Novita_sari.jpg,1030,Novita sari,12.2,Tidak Anemia
+data/images/1031_Umi_latifah.jpg,1031,Umi latifah,15.0,Tidak Anemia
+data/images/1032_Niken_riana.jpg,1032,Niken riana,13.6,Tidak Anemia
+data/images/1033_Amiliah.jpg,1033,Amiliah,7.4,Anemia Berat
+data/images/1034_Ranjani.jpg,1034,Ranjani,13.2,Tidak Anemia
+data/images/1035_Tatu_balqis.jpg,1035,Tatu balqis,14.6,Tidak Anemia
+data/images/1036_Melati_nur.jpg,1036,Melati nur,13.6,Tidak Anemia
+data/images/1037_Quinsha_pratiwi.jpg,1037,Quinsha pratiwi,14.6,Tidak Anemia
+data/images/1038_Khansa_putri.jpg,1038,Khansa putri,12.5,Tidak Anemia
+data/images/1039_Anggun_dian.jpg,1039,Anggun dian,11.5,Anemia Ringan
+data/images/1040_Nabilah_rasikah.jpg,1040,Nabilah rasikah,6.8,Anemia Berat
+data/images/1041_Sendrina_m.jpg,1041,Sendrina m,11.5,Anemia Ringan
+data/images/1042_Zara_hestiana.jpg,1042,Zara hestiana,10.8,Anemia Sedang
+data/images/1043_Marrisa_arum.jpg,1043,Marrisa arum,12.9,Tidak Anemia
+data/images/1044_Tiara_suyita.jpg,1044,Tiara suyita,12.9,Tidak Anemia
+data/images/1045_Selfi_oktari.jpg,1045,Selfi oktari,11.5,Anemia Ringan
+data/images/1046_Grace_amelia.jpg,1046,Grace amelia,14.9,Tidak Anemia
+data/images/1047_Chelsiy_azurah.jpg,1047,Chelsiy azurah,15.3,Tidak Anemia
+data/images/1048_Naya_ningrum.jpg,1048,Naya ningrum,10.8,Anemia Sedang
+data/images/1049_Anisa_Fitri.jpg,1049,Anisa Fitri ,11.2,Anemia Ringan
+data/images/1050_Aurel_Nuransyah.jpg,1050,Aurel Nuransyah,14.6,Tidak Anemia
+data/images/1051_Davina_Amera.jpg,1051,Davina Amera,13.2,Tidak Anemia
+data/images/1052_Humairah_Mutiara.jpg,1052,Humairah Mutiara,11.9,Anemia Ringan
+data/images/1053_Jeni_Septa_Sari.jpg,1053,Jeni Septa Sari,12.9,Tidak Anemia
+data/images/1054_Florenza_Calista.jpg,1054,Florenza Calista,14.9,Tidak Anemia
+data/images/1055_Mutia_Carisa_Febziah.jpg,1055,Mutia Carisa Febziah,14.2,Tidak Anemia
+data/images/1056_Naila_Desyanti.jpg,1056,Naila Desyanti ,10.8,Anemia Sedang
+data/images/1057_Queensyah.jpg,1057,Queensyah,9.5,Anemia Sedang
+data/images/1058_Sulisyfa_Azahra.jpg,1058,Sulisyfa Azahra,13.2,Tidak Anemia
+data/images/1059_Zahira_Febria_Saputria.jpg,1059,Zahira Febria Saputria,14.9,Tidak Anemia

@@ -1,0 +1,37 @@
+# Virtualenv
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Data & model artefak besar
+data/images/
+data/raw/
+data/intermediate/
+data/*.xlsx
+
+models/*.pt
+models/*.pth
+models/*.joblib
+models/*.npz
+models/*_history.npz
+
+# Env file dengan secret
+.env
+*.env
