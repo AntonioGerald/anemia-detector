@@ -5,4 +5,15 @@ scikit-learn
 opencv-python
 matplotlib
 seaborn
-requests
+
+torch
+torchvision
+
+Pillow
+pillow-heif
+
+fastapi
+uvicorn[standard]
+python-multipart
+
+requests             
